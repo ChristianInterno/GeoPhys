@@ -1,5 +1,479 @@
+
+Claude sta rispondendo
+GeoPhys (79).pdf
+pdf
+
+I would like to create a webpage for our paper geophy on github. here some xample of pages that i like:
+
+https://pbt-nca.github.io/
+https://klindtlab.github.io/lejepa-identifiability/
+
+8:09 PM
+
+Examined project requirements and referenced example webpages
+Examined project requirements and referenced example webpages
+I'll take a look at the two example pages you like so I can match the structure and aesthetic, then build a GeoPhys project page in that style.
+
+
+Crafting refined minimalism while eschewing generic AI aesthetics
+Crafting refined minimalism while eschewing generic AI aesthetics
+Both references are clear: a clean academic project page (the LeJEPA one is from Klindt Lab, and David Klindt is a GeoPhys coauthor, so that lineage fits) with the polish of the PBT-NCA page (sticky nav, dark/light toggle, copy-to-clipboard citation, a strong hero). I'll blend them. Let me check the design skill first, then build a self-contained index.html you can drop straight into a GitHub Pages repo.
+
+
+Assembling webpage structure and crafting presentation message
+Assembling webpage structure and crafting presentation message
+Both references are clean academic project pages: I'll lean on the LeJEPA structure (fitting, since David Klindt is a GeoPhys coauthor) with PBT-NCA's polish (sticky nav, dark/light toggle, copy-to-clipboard citation, a strong hero). The signature motif will be the smooth-vs-jagged feature trajectory from your Figure 1.
+
+Let me build it.
+
+
+Refined webpage structure and corrected formatting inconsistencies
+Refined webpage structure and corrected formatting inconsistencies
+Let me make one small fix: you avoid em dashes, so I'll swap the two in the results table for middots.
+
+
+3 file modificati, file letto
+3 file modificati, file letto
+Here's the GeoPhys project page, a single self-contained index.html ready to drop into a GitHub Pages repo.
+
+Design. It blends the two references: the clean academic structure of the LeJEPA page (abstract, TL;DR, per-study sections with takeaway boxes, results table, BibTeX) with the polish of PBT-NCA (sticky blurred nav, dark/light toggle that remembers your choice, copy-to-clipboard citation, staggered scroll reveals). The signature motif is your Figure 1: an animated smooth-green-versus-jagged-coral feature trajectory in the hero, reused as the logo glyph. Palette ties to the paper (emerald = plausible/GeoPhys, coral = violated), warm paper background, Fraunces display + IBM Plex Sans/Mono. Prose follows your house style (British spelling, short sentences, no em dashes). The generation bars animate on scroll and the compute footprint reads at a glance.
+
+Three things to fill in before you publish:
+
+arXiv link appears in two spots (the hero "Paper" button and the footer, both marked id="paperBtn"/paperBtn2 with a <!-- TODO -->), plus the arXiv:XXXX.XXXXX placeholder in the BibTeX. Search-and-replace once you have the ID.
+Figures are optional slots that degrade to a labelled dashed placeholder if absent, so the page looks complete today. Drop PNGs at static/images/pipeline.png (Fig 2), brain.png (Fig 4), detection.png (Fig 5/6), qualitative.png (Fig 15) to fill them.
+Numbers in the generation bar chart use the Table 2 V2V column (VideoMAE 52.6, Qwen2.5-VL 50.6, Qwen3-VL 55.1, WMReward 62.29). Worth a glance since Fig 9 / Table 11 round slightly differently (52.8, 50.5, 55.9, 62.3); the headline 50.01 and 64.50 match across both.
+To deploy: create the repo (e.g. GeoPhys under your ChristianInterno account, or a dedicated geophys repo), put index.html at the root with a static/images/ folder beside it, then Settings → Pages → Source: main branch / root. It'll be live at https://christianinterno.github.io/<repo>/. If you'd rather keep the page inside the existing code repo, move both into a docs/ folder and point Pages at /docs.
+
+One small heads-up: I used a neutral "Preprint · 2026" badge rather than naming a venue, since the paper itself doesn't claim acceptance. Swap it in the hero eyebrow if and when that changes.
+
+
+Index
+Codice · HTML 
+lets use the same pattern color of the paper and recal the aestetic with cool nice things.
+
+8:20 PM
+
+Orchestrated comprehensive visual redesign matching paper's color palette and aesthetic
+Orchestrated comprehensive visual redesign matching paper's color palette and aesthetic
+Good direction. The paper's real signature isn't just green and red, it's that magenta Blender particle-splash on a dark floor, plus the backbone-coded palette (violet/navy/orange/magenta) and the per-verifier colors in Figure 7. I'll pull all of that in and add some tasteful motion: an aurora mesh, a drifting magenta particle field echoing the renders, glowing pulses that travel along the plausible/violated trajectories, count-up stats, and backbone/verifier bars colored to match the figures.
+
+
+Eseguito un comando, file creato, file letto
+Eseguito un comando, file creato, file letto
+Reworked to pull the paper's real palette and add the motion. Same index.html, drop-in ready.
+
+What changed:
+
+The palette now matches the figures. Green stays plausible/GeoPhys, coral stays violated, and magenta is featured as the Blender-render accent (the hot-pink particle splash from Figure 1). The four backbone chips are colour-coded to Figure 5: DINOv2 violet, DINOv3 navy, CORnet-S orange, VOneNet magenta. The generation bars now follow Figure 7's per-verifier legend: Qwen2.5-VL orange, VideoMAE violet, Qwen3-VL coral, WMReward olive, GeoPhys green, oracle violet-dashed.
+
+The cool bits, kept tasteful rather than busy:
+
+A drifting magenta particle field across the hero, echoing the fluid renders, with a slow green/magenta/violet aurora mesh glowing behind it.
+Glowing pulses that travel along both trajectories in the teaser, the violated one moving faster and jerkier than the smooth green one, so the graphic enacts the thesis. The paths draw themselves on load.
+Count-up animation on the three headline stats, with the numbers rendered as a green-to-magenta gradient.
+Numbered gradient badges on the study sections, gradient accent bars on the stat cards and code block, and a faint film-grain overlay for depth.
+Everything respects prefers-reduced-motion (particles, aurora, count-up and bar fills all freeze), and dark mode carries the new palette.
+The title's "Geometry" picks up the green-to-magenta gradient too, which I judged worth it here since it's the paper's own colour story rather than a generic purple-on-white gradient; if it reads as too much, say the word and I'll make it solid green.
+
+Same three things to fill before publishing: the arXiv link (hero button, footer, and the BibTeX placeholder), the optional figure PNGs in static/images/, and a glance at the generation numbers (Table 2 V2V values). Deployment is unchanged: index.html at repo root with static/images/ beside it, then Settings → Pages.
+
+
+Index
+Codice · HTML 
+lets use video. that I can proviede to you and more cool animation from you. I LIKE TEXT AND COLORS THO.
+
+8:28 PM
+
+Architected video gallery with animations while preserving existing design
+Architected video gallery with animations while preserving existing design
+Love it. Keeping every word and every colour exactly as they are. I'll add a video showcase you can drop clips into, plus a few more animations that reuse the existing palette. Let me check the current file's anchor points before editing.
+
+
+Hunted for reduced-motion CSS implementation details
+Hunted for reduced-motion CSS implementation details
+Now the CSS additions (scroll bar, active nav, video showcase, tilt cards):
+
+
+Add CSS for scroll progress, active nav, and video showcase; extend reduced-motion
+Add CSS for scroll progress, active nav, and video showcase; extend reduced-motion
+Add the scroll-progress bar element:
+
+
+Pivoted toward integrating video content while preserving text and colors
+Pivoted toward integrating video content while preserving text and colors
+Now replace the static qualitative figure with the video showcase (a draggable before/after comparison plus a five-family clip gallery):
+
+
+Verifying file coherence and scrutinizing selector placeholders
+Verifying file coherence and scrutinizing selector placeholders
+Now the JavaScript for the new interactions. Let me view the JS tail:
+
+
+Orchestrating video elements and explaining filename conventions
+Orchestrating video elements and explaining filename conventions
+One fix to the placeholder logic so the comparison slider maps each video to its own placeholder:
+
+
+Architected video integration with animations while preserving existing text and colors
+Architected video integration with animations while preserving existing text and colors
+Done. Same index.html, all text and colours untouched. Here's what's new.
+
+Video support lives in a new "Results in motion" block inside the Generation section. It has two parts:
+
+A drag-to-compare slider: baseline on the left, GeoPhys selection on the right, with a draggable divider (works with mouse and touch).
+A five-clip gallery for the PhysicsIQ families (solid mechanics, fluids, optics, thermodynamics, magnetism), each tagged with its Δ gain from Figure 15.
+Every video shows a labelled placeholder until its file loads, so the page looks intentional right now, and the clips fade in and autoplay (muted, looping) once you add them. Drop these into a static/videos/ folder beside index.html:
+
+compare_baseline.mp4 and compare_geophys.mp4 — same scenario, for the slider
+solid.mp4, fluid.mp4, optics.mp4, thermo.mp4, magnet.mp4 — the gallery
+Use H.264 MP4 and keep them short and a few MB each, since GitHub Pages serves them directly. If you'd rather have side-by-side trios (baseline / GeoPhys / ground truth) in each gallery card instead of single clips, tell me how your files are cut and I'll rework the cards to match.
+
+More animation, reusing the existing palette:
+
+A thin scroll-progress bar at the very top, green-to-magenta.
+Scroll-spy on the nav: the current section's link lights up with a gradient underline as you move down.
+Subtle 3D tilt on the gallery cards as you move the cursor across them, with a slow zoom on the clip itself on hover.
+All of it respects reduced-motion (tilt, zoom, particles, count-ups and bars all freeze for users who ask for that). The three to-dos from before still stand: arXiv link, the optional figure PNGs, and a glance at the Table 2 V2V numbers.
+
+LETS ADD THE LOGOS OF THE AFFILIATION. LETS SELL THIS.
+
+8:33 PM
+
+Architected credible logo wall with elegant fallbacks for institutional affiliations
+Architected credible logo wall with elegant fallbacks for institutional affiliations
+Smart move. Institutional logos are exactly the credibility signal a project page wants. I'll add a clean logo wall right under the hero, grayscale that colourises on hover (the premium pattern), with a chained fallback: each slot tries .svg, then .png, then a refined text wordmark, so it looks intentional right now and upgrades the moment you drop real logos in.
+
+
+Eseguito un comando, file visualizzato, file modificato
+Eseguito un comando, file visualizzato, file modificato
+Now the CSS for the logo wall, inserted after the video-showcase styles:
+
+
+Add logo wall CSS
+Add logo wall CSS
+Now the logoFail fallback function (tries .svg, then .png, then the text wordmark):
+
+
+File modificato, eseguito un comando, file letto
+File modificato, eseguito un comando, file letto
+There's the credibility strip. A logo wall sits right under the hero, "A collaboration across" followed by all seven institutions: Bielefeld, Oxford, Cold Spring Harbor, MBZUAI, Honda Research Institute EU, NYU, and the Flatiron Institute. Each is a clickable link to the institution, grayscale by default and snapping to full colour with a slight lift on hover, the look that reads as "serious lab, real backing."
+
+Right now each shows a refined text wordmark, so it already sells without any assets. To swap in the official logos, drop files into a static/logos/ folder next to index.html:
+
+bielefeld, oxford, cshl, mbzuai, honda, nyu, flatiron
+
+Each slot tries .svg first, then .png, then .jpg, then falls back to the wordmark, so whatever format you grab from each institution's brand page will just work. SVG is sharpest if you can get it. One tip for a clean wall: monochrome or single-colour versions unify best, since the page applies grayscale and only colourises on hover; full-colour logos work too and simply pop on hover.
+
+Everything else is untouched, text, colours, the video showcase, and the animations all as they were. Still outstanding whenever you get to them: the arXiv link, the figure PNGs, the result clips, and a glance at the Table 2 V2V numbers.
+
+
+Index
+Codice · HTML 
+OK SO, im gonne create a repo in github and putting this? how?
+
+8:36 PM
+
+Architected GitHub Pages deployment strategy for existing repo
+Architected GitHub Pages deployment strategy for existing repo
+You can ship it as-is right now; the page works with just index.html and shows the styled placeholders until you add assets. Easiest is to use your existing GeoPhys repo and serve the page from a docs/ folder, which keeps it separate from the code and gives a clean URL.
+
+Recommended layout
+
+GeoPhys/
+  docs/
+    index.html            ← the file I gave you
+    .nojekyll             ← empty file (stops GitHub trying to "build" the site)
+    static/
+      images/   (figure PNGs, optional)
+      videos/   (your clips, optional)
+      logos/    (institution logos, optional)
+The static/ folders are only needed once you add files. Relative paths in the page point there, and missing files just fall back to placeholders, so deploy first and fill them in whenever.
+
+Steps (command line)
+
+Create the repo on github.com: New repository → name it GeoPhys, Public, don't add a README. (If ChristianInterno/GeoPhys already exists for the code, skip this and just add the docs/ folder to it.)
+Locally, from inside your project folder:
+bash
+mkdir -p docs/static/images docs/static/videos docs/static/logos
+cp /path/to/index.html docs/
+touch docs/.nojekyll
+git init
+git add .
+git commit -m "Add GeoPhys project page"
+git branch -M main
+git remote add origin https://github.com/ChristianInterno/GeoPhys.git
+git push -u origin main
+On GitHub: repo → Settings → Pages → under "Build and deployment", set Source to Deploy from a branch, Branch main, folder /docs, then Save.
+Wait about a minute, then open: https://christianinterno.github.io/GeoPhys/
+That's it. To update later, drop files into docs/static/... and git add . && git commit -m "..." && git push; Pages redeploys automatically.
+
+Two notes. If you'd rather have the site at https://christianinterno.github.io/ (root, no /GeoPhys/), create a repo named exactly christianinterno.github.io and put index.html at its root instead. And if you prefer no terminal, GitHub's web UI works too: open the repo, "Add file → Upload files", drag index.html (and later the static folder), commit, then enable Pages the same way; just point it at the root folder instead of /docs if you upload to the top level.
+
+One catch worth knowing: the Code button in the page points at github.com/ChristianInterno/GeoPhys, so if you make that repo private the link will 404 for visitors. Keep it public, or update the link.
+
+what license?
+
+8:41 PM
+
+Parsing DINOv3's custom commercial license terms
+Parsing DINOv3's custom commercial license terms
+Quick caveat: I'm not a lawyer, so treat this as orientation rather than legal advice. The honest answer depends partly on what your dependencies allow, so let me check the current licenses of the backbones GeoPhys builds on before I give you a framework.
+
+
+Weighed licensing options for research code with dependencies
+Weighed licensing options for research code with dependencies
+For a research method like this, the standard choice is one of the two permissive licenses, and the deciding question is just whether you want a patent clause:
+
+MIT is the simplest and most common for NeurIPS-style code. Anyone can use, modify, and redistribute, commercially or not, as long as they keep your copyright notice. It maximises adoption and citation, which is usually what you want for a method paper.
+
+Apache-2.0 gives the same freedoms but adds an explicit patent grant and a NOTICE mechanism. It's slightly more formal and is what Meta/Google labs tend to use. Pick this if there's any patent angle or you want belt-and-braces protection for users; otherwise MIT is fine.
+
+I'd default to MIT unless you have a specific patent reason, in which case Apache-2.0. Avoid GPL here, since copyleft tends to deter the industry adoption a benchmark/method usually wants.
+
+One real catch, since your repo will lean on others' models. CORnet-S and VOneNet are both GNU GPL v3, and DINOv3 ships under a custom Meta license where distribution of the DINO materials or any derivative works is subject to that agreement, you must provide a copy of it, and prominently display "Built with DINOv3". The clean way to stay permissive on your own code: don't copy their source into your repo. Reference them as installable dependencies (pip install/download weights at runtime), and if you must include any third-party files, keep them in a separate third_party/ directory with their original LICENSE intact. Your original GeoPhys code can then carry MIT or Apache without conflict, and the model weights remain governed by their own terms regardless of what you choose. Add a short "Built with DINOv3" line (the page footer is a natural spot) and you're covered; the paper already cites all of them. 
+GitHub
+Meta
+
+Two practical notes. With eleven coauthors across seven institutions and Honda Research Institute funding, it's worth a quick confirmation with your coauthors and Honda that an open release under your chosen license is approved, since funded work sometimes carries IP terms. And if you want to be precise about the paper text and figures versus the code, some people put code under MIT and the written content under CC-BY-4.0, but a single MIT LICENSE covering the whole repo is perfectly normal and simpler.
+
+To add it: when you create the repo, GitHub has a "Choose a license" dropdown that drops in a ready-made LICENSE file with your name and year. If the repo already exists, do Add file → Create new file, type LICENSE, and a "Choose a license template" button appears.
+
+This is general orientation rather than legal advice; for the funder/institutional IP angle specifically, your tech-transfer office is the authority.
+
+interno@cuda2xl-h100:~/storage/VidGenPhysics/scaling_analysis> mkdir -p docs/static/images docs/static/videos docs/static/logos
+cp /path/to/index.html docs/
+touch docs/.nojekyll
+git init
+git add .
+git commit -m "Add GeoPhys project page"
+git branch -M main
+git remote add origin https://github.com/ChristianInterno/GeoPhys.git
+git push -u origin main
+cp: cannot stat '/path/to/index.html': No such file or directory
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint:     git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint:     git branch -m <name>
+Initialized empty Git repository in /hri/storage/user/cinterno/VidGenPhysics/scaling_analysis/.git/
+^[OQ
+
+Mostra altro
+8:49 PM
+
+Identified placeholder filepath error and risky directory initialization
+Identified placeholder filepath error and risky directory initialization
+Two things went sideways, and the second one matters more than the first.
+
+The cp error is harmless: /path/to/index.html was a literal placeholder I should have flagged. You need to point it at wherever the index.html you downloaded from this chat actually lives.
+
+The bigger issue: you ran this inside ~/storage/VidGenPhysics/scaling_analysis, which is one of your research analysis folders. git init + git add . there stages that entire folder, and if the push went through it could publish your scaling data and scripts to a public repo. So don't continue from here. First undo the stray repo (this only removes version-control tracking, your files are untouched):
+
+bash
+cd ~/storage/VidGenPhysics/scaling_analysis
+rm -rf .git
+Then go check https://github.com/ChristianInterno/GeoPhys in a browser. If you see your scaling_analysis files there, the push landed and we should clean that up, tell me and I'll walk you through it. If the repo doesn't exist yet or is empty, you're fine.
+
+Now, the clean way. The page needs no GPU, so the simplest is to build it on your laptop where the downloaded file already is, not on the H100:
+
+bash
+mkdir geophys-site && cd geophys-site
+mkdir -p docs/static/images docs/static/videos docs/static/logos
+mv ~/Downloads/index.html docs/        # adjust to your real download path
+touch docs/.nojekyll
+git init -b main                        # -b main avoids the master/main warning
+git add .
+git commit -m "Add GeoPhys project page"
+git remote add origin https://github.com/ChristianInterno/GeoPhys.git
+git push -u origin main
+If you'd rather stay on the cluster, do the same but in a fresh directory like ~/storage/geophys-site (not inside scaling_analysis), and scp the file up from your laptop first:
+
+bash
+# run this from your laptop, not the cluster
+scp ~/Downloads/index.html interno@cuda2xl-h100:~/storage/geophys-site/docs/
+One caveat before you push: does ChristianInterno/GeoPhys already hold your actual code? If so, don't git init a fresh repo, that creates an unrelated history that the push will reject. Instead git clone the existing repo, drop the docs/ folder into the clone, then commit and push. If the repo doesn't exist yet, create it first on github.com (New repository, name GeoPhys, Public, no README), then the commands above work as written.
+
+Tell me which case you're in (fresh repo vs. existing code repo) and whether anything showed up on GitHub, and I'll give you the exact next step.
+
+[main (root-commit) d30c24f] Add GeoPhys project page
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 docs/.nojekyll
+Username for 'https://github.com': mkdir geophys-site && cd geophys-site
+mkdir -p docs/static/images docs/static/videos docs/static/logos
+mv /home/cinterno/Downloads/index.html docs/        # adjust to your real download path
+touch docs/.nojekyll
+git init -b main                        # -b main avoids the master/main warning
+git add .
+git commit -m "Add GeoPhys project page"
+git remote add origin https://github.com/ChristianInterno/GeoPhys.git
+git push -u origin mainPassword for 'https://mkdir%20geophys-site%20%26%26%20cd%20geophys-site@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/ChristianInterno/GeoPhys.git/'
+cinterno@cuda2xl-h100:~/storage/VidGenPhysics/scaling_analysis/geophys-site/geophys-site>
+
+Mostra altro
+8:59 PM
+
+Diagnosed authentication failure and identified file-transfer problem
+Diagnosed authentication failure and identified file-transfer problem
+Good news first: nothing got published. The push failed on authentication, so nothing reached GitHub. And the commit it did make contains only the empty .nojekyll, none of your research files. So you're safe, just tangled up.
+
+Here's what actually went wrong, briefly:
+
+The commit had no index.html because the mv silently failed: that file is on your laptop (where you downloaded it from this chat), not on the cluster. There's no index.html in /home/cinterno/Downloads on the H100.
+At the Username for github.com: prompt you pasted the whole command block, so the username became "mkdir geophys-site && cd geophys-site", and the leftover lines then ran and created a nested geophys-site/geophys-site.
+Separately, GitHub no longer accepts your account password over HTTPS, it needs a token. So even a clean attempt would have failed there.
+Stop fighting the cluster. Since the file lives on your laptop, the simplest path by far is the browser, no terminal, no tokens, no file transfer:
+
+On your laptop, go to github.com → New repository → name it GeoPhys, Public, create it (skip the README).
+On the repo page click Add file → Upload files, and drag the index.html from your laptop's Downloads into the page.
+Click the green Commit changes.
+Settings → Pages → Source: Deploy from a branch → Branch main, folder / (root) → Save.
+Wait a minute, open https://christianinterno.github.io/GeoPhys/
+That's it. The static/ folders and .nojekyll aren't needed yet; the page runs fine from root and shows placeholders until you upload assets later (same Add file → Upload files, drag the folders in).
+
+Then clean up the leftovers on the cluster so nothing lingers in your analysis folder:
+
+bash
+cd ~/storage/VidGenPhysics/scaling_analysis
+rm -rf geophys-site        # removes the nested mess (files only, leaves your analysis untouched)
+ls -a                      # if you see a stray .git here from earlier and don't want it:
+# rm -rf .git
+If you'd genuinely rather use the git CLI later, do it from your laptop where the file is, and note two things: at the Username prompt type just ChristianInterno, and for the password paste a Personal Access Token (github.com → Settings → Developer settings → Personal access tokens → give it repo scope), not your login password. But for one HTML file, the browser upload above is much less hassle.
+
+wait did we remove this from the storage????
+
+cinterno@cuda2xl-h100:~/storage/VidGenPhysics/scaling_analysis/geophys-site/geophys-site> cd ~/storage/VidGenPhysics/scaling_analysis
+rm -rf geophys-site        # removes the nested mess (files only, leaves your analysis untouched)
+ls -a                      # if you see a stray .git here from earlier and don't want it:
+# rm -rf .git
+.            bon_layout_delta             i2v_geophys.csv             plot_v2v_scaling.py        rerank_visual.py
+..            bootstrap_scaling.py         i2v_geophys_scaling.csv         previews                results
+aggregation_v10.py  bootstrap_scaling.py.bak         i2v_physicsiq_per_seed.csv      qual_candidates.json        run_delta_scoring.sh
+aggregation_v11.py  build_appendix_grids.py         i2v_qwen25vl.csv             qual_geophys_vs_baseline_grid.pdf    scores
+aggregation_v12.py  build_example_zip.py         i2v_qwen3vl.csv             qual_geophys_vs_baseline_grid.png    scores_delta
+aggregation_v2.py   build_strategy_video_folders.py  i2v_videomae.csv             qualitative_frames            select_maxdelta.py
+aggregation_v3.py   curv_routing_test.py         i2v_wmreward.csv             qualitative_frames_gt.py        stub_prompts.json
+aggregation_v4.py   docs                 logs                 qualitative_frames.py        v2v_table_metrics.py
+aggregation_v5.py   drop_method_extra.py         logs_delta                 qualitative_frames_wmreward.py    verify_strategy_scores.py
+aggregation_v6.py   evaluate_strategies.py         make_preview.py             qualitative_frames.zip        which_bb_is_noisy.py
+aggregation_v7.py   explore_aggregations.py         make_qual_grid.py             qual_pick.json            why_oracle_picks.py
+aggregation_v8.py   geophys_ours.py             merge_delta_scores.py         rebuild_baseline_worst_seed.py
+aggregation_v9.py   gpu0_queue.sh             meta_router.py             rebuild_manifests_and_rename.py
+bon_layout        gpu1_queue.sh             plot_strategy_distributions.py  relative_spread_test.py
+cinterno@cuda2xl-h100:~/storage/VidGenPhysics/scaling_analysis>
+
+Mostra altro
+9:02 PM
+
+Traced file history to reassure user about data safety
+Traced file history to reassure user about data safety
+No, your data is safe. rm -rf geophys-site only deleted the throwaway geophys-site folder we created during these attempts, and that folder never held anything but an empty .nojekyll and some empty static/ subfolders. The index.html never made it onto the cluster (the copy failed every time), so there was nothing of value in there to lose.
+
+Your ls proves it: everything is still there. All your aggregation_v2.py through v12.py, geophys_ours.py, every i2v_*.csv (geophys, qwen25vl, qwen3vl, videomae, wmreward), qualitative_frames*, results/, scores/, scores_delta/, logs/, all of it is intact and untouched. rm -rf geophys-site can only affect a folder literally named geophys-site, nothing else.
+
+Two small observations from the listing:
+
+There's a leftover docs folder, left over from your very first attempt when the original commands ran directly in here. It almost certainly just contains an empty .nojekyll and empty static/ subfolders. Peek before removing, to be safe:
+
+bash
+ls -aR docs
+If it's only .nojekyll and empty images/videos/logos folders, it's safe to delete with rm -rf docs. If you see anything of your own in there, leave it.
+
+Also, I don't see a .git in the listing, which is good: scaling_analysis is not a Git repository, so nothing here is being tracked or pushed.
+
+Bottom line: stop running any deploy commands in scaling_analysis. The page should go up from your laptop browser via the GitHub upload route, since that's where the index.html actually lives. This folder is just your research workspace, leave it as is.
+
+ok tell me exactly what file we need on the github anf structure.
+
+9:04 PM
+
+Architected precise GitHub repository structure with required and optional files
+Architected precise GitHub repository structure with required and optional files
+The only file you truly need is index.html. Everything else is optional and only matters once you add figures, videos, or logos. Missing assets just show the styled placeholders, nothing breaks.
+
+Minimum to go live:
+
+GeoPhys/
+└── index.html
+Full structure once you add assets (filenames must match exactly, they're hardcoded in the page, and GitHub is case-sensitive):
+
+GeoPhys/
+├── index.html              ← required: the page itself
+├── LICENSE                 ← optional: MIT or Apache (the license dropdown)
+└── static/
+    ├── logos/              ← institution logos (.svg preferred; .png or .jpg also work)
+    │   ├── bielefeld.svg
+    │   ├── oxford.svg
+    │   ├── cshl.svg
+    │   ├── mbzuai.svg
+    │   ├── honda.svg
+    │   ├── nyu.svg
+    │   └── flatiron.svg
+    ├── images/             ← paper figures (PNG)
+    │   ├── pipeline.png     (Figure 2, method pipeline)
+    │   ├── brain.png        (Figure 4, model vs brain)
+    │   └── detection.png    (Figure 5 or 6, complementarity / ROC)
+    └── videos/             ← result clips (H.264 .mp4, short, a few MB each)
+        ├── compare_baseline.mp4   (left side of the drag slider)
+        ├── compare_geophys.mp4    (right side of the drag slider)
+        ├── solid.mp4
+        ├── fluid.mp4
+        ├── optics.mp4
+        ├── thermo.mp4
+        └── magnet.mp4
+Three rules that matter:
+
+index.html and the static/ folder must sit at the same level (both at the repo root). The page reaches assets by relative path, so if you nest index.html somewhere else the links break.
+
+The names above are exactly what the page looks for. The logos are forgiving: each slot tries .svg, then .png, then .jpg, then the text wordmark, so whatever format you grab will work. The figures must be .png, the videos .mp4.
+
+In Settings → Pages, set Source to "Deploy from a branch", Branch main, Folder / (root). Your site lands at https://christianinterno.github.io/GeoPhys/.
+
+You don't need .nojekyll with this layout (no underscore-named folders), so skip it unless something ever fails to load.
+
+I dont like the background color...and  want more animated stuf...check this:
+
+https://www.isomorphiclabs.com/
+
+9:11 PM
+
+Orchestrating dark cinematic backdrop with animated molecular feature-space network
+Orchestrating dark cinematic backdrop with animated molecular feature-space network
+Let me look at the Isomorphic Labs site to capture what you're after, then rework the background and motion to match that vibe.
+
+
+Architected dark theme overhaul with animated molecular network background
+Architected dark theme overhaul with animated molecular network background
+Got it. The Isomorphic look is deep cinematic dark, big clean type, and slow flowing molecular motion over a near-black canvas. I'll flip the page to a dark cool-black base (kills the warm cream you didn't like), keep your green/magenta/coral accents so they glow against it, and add an ambient, mouse-reactive "feature-space network" that drifts behind everything, points connected by faint lines, which is both the Isomorphic vibe and literally on-theme for GeoPhys.
+
+Let me grab the exact anchors first.
+
+
+Pivoted design toward atmospheric effects and enhanced animations
+Pivoted design toward atmospheric effects and enhanced animations
+Now swap the flat grid for an atmospheric glow and add the ambient network canvas:
+
+
+Refined aurora visibility and contemplated content layering hierarchy
+Refined aurora visibility and contemplated content layering hierarchy
+
+
+
+
+Claude è un'AI e può commettere errori. Verifica le risposte.
+
+
+raw
+Index · HTML
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,20 +483,20 @@
 <meta property="og:title" content="GeoPhys: The Geometry of Physical Plausibility">
 <meta property="og:description" content="Physical plausibility is written into the geometry of per-frame features from frozen image encoders.">
 <meta property="og:type" content="website">
-
+ 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-
+ 
 <style>
 :root{
-  --paper:#f5f1e7;
-  --paper-2:#ebe5d6;
-  --card:#fffdf6;
-  --ink:#141d18;
-  --ink-soft:#4a5650;
-  --line:#dad3c2;
-
+  --paper:#eef1f4;
+  --paper-2:#e2e7ec;
+  --card:#fbfcfd;
+  --ink:#10161b;
+  --ink-soft:#4a565f;
+  --line:#d6dce2;
+ 
   /* paper palette */
   --green:#127a51;          /* plausible / GeoPhys */
   --green-deep:#0b5236;
@@ -36,7 +510,7 @@
   --navy:#2c4296;           /* DINOv3 */
   --orange:#d6891c;         /* CORnet-S */
   --olive:#94a23a;          /* WMReward */
-
+ 
   --grid:rgba(18,122,81,.09);
   --shadow:0 1px 0 rgba(0,0,0,.02), 0 22px 46px -30px rgba(20,32,27,.5);
   --radius:18px;
@@ -46,30 +520,30 @@
   --mono:"IBM Plex Mono", ui-monospace, monospace;
 }
 [data-theme="dark"]{
-  --paper:#0d1310;
-  --paper-2:#121a15;
-  --card:#15201a;
-  --ink:#eef3ed;
-  --ink-soft:#9fab9f;
-  --line:#26312b;
-
-  --green:#33ca8b;
-  --green-deep:#63e3ab;
-  --green-br:#43d999;
-  --green-wash:#13271d;
-  --coral:#ff6b4f;
-  --coral-wash:#2a1611;
-  --magenta:#f072b3;
+  --paper:#070a10;          /* deep cool near-black */
+  --paper-2:#0d131c;
+  --card:#10151f;
+  --ink:#eef2f8;
+  --ink-soft:#94a1b2;
+  --line:#1d2632;
+ 
+  --green:#34d399;
+  --green-deep:#5fe3ab;
+  --green-br:#43e0a0;
+  --green-wash:#0f2a20;
+  --coral:#ff6f52;
+  --coral-wash:#2a1712;
+  --magenta:#f472b6;
   --magenta-soft:#7d2b56;
-  --violet:#a98bdd;
+  --violet:#b095e6;
   --navy:#7d92e8;
   --orange:#f0ab43;
   --olive:#c2cf63;
-
-  --grid:rgba(51,202,139,.12);
-  --shadow:0 1px 0 rgba(0,0,0,.25), 0 30px 56px -34px rgba(0,0,0,.85);
+ 
+  --grid:rgba(52,211,153,.10);
+  --shadow:0 1px 0 rgba(0,0,0,.3), 0 34px 64px -36px rgba(0,0,0,.92);
 }
-
+ 
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{
@@ -84,18 +558,21 @@ body::after{
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
   mix-blend-mode:soft-light;
 }
-/* faint feature-space grid */
+/* atmospheric glow (depth) */
 body::before{
-  content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.55;
-  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
-  background-size:48px 48px;
-  -webkit-mask-image:radial-gradient(ellipse 85% 55% at 50% -2%,#000 0%,transparent 72%);
-          mask-image:radial-gradient(ellipse 85% 55% at 50% -2%,#000 0%,transparent 72%);
+  content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:
+    radial-gradient(60% 50% at 18% 0%, color-mix(in srgb,var(--green) 16%,transparent), transparent 70%),
+    radial-gradient(55% 45% at 88% 6%, color-mix(in srgb,var(--magenta) 14%,transparent), transparent 70%),
+    radial-gradient(70% 60% at 50% 120%, color-mix(in srgb,var(--violet) 12%,transparent), transparent 70%);
 }
+/* ambient feature-space network */
+#netcanvas{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.9}
+[data-theme="light"] #netcanvas{opacity:.5}
 a{color:var(--green-deep);text-decoration:none}
 a:hover{text-decoration:underline}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px;position:relative;z-index:2}
-
+ 
 /* nav */
 nav{position:sticky;top:0;z-index:50;backdrop-filter:saturate(160%) blur(14px);background:color-mix(in srgb,var(--paper) 78%,transparent);border-bottom:1px solid var(--line)}
 nav .wrap{display:flex;align-items:center;justify-content:space-between;height:62px}
@@ -107,11 +584,11 @@ nav .wrap{display:flex;align-items:center;justify-content:space-between;height:6
 .toggle{border:1px solid var(--line);background:var(--card);color:var(--ink);width:40px;height:35px;border-radius:10px;cursor:pointer;font-size:15px;display:grid;place-items:center;transition:.2s}
 .toggle:hover{border-color:var(--green);color:var(--green)}
 @media(max-width:760px){.navlinks a:not(.cta){display:none}}
-
+ 
 /* hero */
 header{position:relative;padding:78px 0 44px;overflow:hidden}
 .aurora{position:absolute;inset:-20% -10% auto -10%;height:130%;z-index:0;pointer-events:none;filter:blur(70px);opacity:.55}
-[data-theme="dark"] .aurora{opacity:.42}
+[data-theme="dark"] .aurora{opacity:.5}
 .aurora b{position:absolute;border-radius:50%;display:block}
 .aurora .a1{width:46vw;height:46vw;left:-6vw;top:-8vw;background:radial-gradient(circle,var(--green-br),transparent 65%);animation:drift1 22s ease-in-out infinite}
 .aurora .a2{width:42vw;height:42vw;right:-4vw;top:2vw;background:radial-gradient(circle,var(--magenta),transparent 64%);animation:drift2 26s ease-in-out infinite}
@@ -120,7 +597,7 @@ header{position:relative;padding:78px 0 44px;overflow:hidden}
 @keyframes drift2{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(-5vw,5vw) scale(1.08)}}
 @keyframes drift3{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(3vw,-4vw) scale(1.14)}}
 #particles{position:absolute;inset:0;z-index:1;pointer-events:none}
-
+ 
 .eyebrow{font-family:var(--mono);font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--green);margin-bottom:18px;display:flex;align-items:center;gap:10px}
 .eyebrow::before{content:"";width:26px;height:2px;background:linear-gradient(90deg,var(--green),var(--magenta))}
 h1{font-family:var(--display);font-weight:600;font-size:clamp(40px,6.6vw,80px);line-height:1.0;letter-spacing:-.025em;margin:0 0 20px}
@@ -128,28 +605,28 @@ h1 .em{font-style:italic;font-weight:500;background:linear-gradient(105deg,var(-
 .lede{font-size:clamp(18px,2.2vw,21px);color:var(--ink-soft);max-width:730px;margin:0 0 22px}
 .tags{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:30px}
 .tag{font-family:var(--mono);font-size:12px;padding:5px 12px;border:1px solid var(--line);border-radius:999px;color:var(--ink-soft);background:color-mix(in srgb,var(--card) 70%,transparent)}
-
+ 
 .authors{font-size:16.5px;line-height:2;margin:6px 0 4px;max-width:860px}
 .authors a{color:var(--ink);font-weight:600;border-bottom:1.5px solid transparent}
 .authors a:hover{border-color:var(--green);text-decoration:none}
 sup{color:var(--green);font-weight:600;font-size:.72em}
 .affil{color:var(--ink-soft);font-size:14px;line-height:1.9;max-width:860px;margin-top:6px}
 .affil .corr{display:block;margin-top:6px}
-
+ 
 .btns{display:flex;flex-wrap:wrap;gap:12px;margin:30px 0 8px}
 .btn{display:inline-flex;align-items:center;gap:9px;padding:12px 20px;border-radius:12px;font-weight:600;font-size:15px;border:1px solid var(--ink);background:var(--ink);color:var(--paper);transition:transform .15s,box-shadow .15s,background .2s}
 .btn svg{width:17px;height:17px}
 .btn:hover{transform:translateY(-2px);text-decoration:none;box-shadow:var(--shadow)}
 .btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
 .btn.ghost:hover{border-color:var(--green);color:var(--green)}
-
+ 
 .teaser{margin-top:50px;border:1px solid var(--line);border-radius:var(--radius);background:color-mix(in srgb,var(--card) 88%,transparent);box-shadow:var(--shadow);overflow:hidden;backdrop-filter:blur(2px)}
 .teaser .svgbox{width:100%;display:block}
 .teaser .cap{padding:15px 22px;border-top:1px solid var(--line);font-size:13.5px;color:var(--ink-soft)}
 .teaser .cap b{color:var(--ink)}
 .draw{stroke-dasharray:1500;stroke-dashoffset:1500;animation:draw 1.9s .35s cubic-bezier(.7,0,.3,1) forwards}
 @keyframes draw{to{stroke-dashoffset:0}}
-
+ 
 /* sections */
 section{padding:66px 0;position:relative}
 .kicker{font-family:var(--mono);font-size:12.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--green);margin-bottom:10px;display:flex;align-items:center;gap:9px}
@@ -158,12 +635,12 @@ h2{font-family:var(--display);font-weight:600;font-size:clamp(28px,4vw,42px);let
 .section-lead{color:var(--ink-soft);max-width:760px;margin:14px 0 0;font-size:18px}
 p{margin:16px 0}
 .divider{height:1px;max-width:var(--maxw);margin:0 auto;background:linear-gradient(90deg,transparent,var(--line) 12%,var(--line) 88%,transparent)}
-
+ 
 .tldr{display:grid;grid-template-columns:120px 1fr;gap:24px;background:linear-gradient(120deg,var(--green-wash),color-mix(in srgb,var(--magenta) 12%,var(--card)));border:1px solid color-mix(in srgb,var(--green) 28%,var(--line));border-radius:var(--radius);padding:26px 28px;margin-top:26px}
 .tldr .lbl{font-family:var(--display);font-style:italic;font-weight:600;font-size:26px;background:linear-gradient(105deg,var(--green-deep),var(--magenta));-webkit-background-clip:text;background-clip:text;color:transparent}
 .tldr p{margin:0;font-size:16.5px}
 @media(max-width:640px){.tldr{grid-template-columns:1fr;gap:8px}}
-
+ 
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px}
 .stat{position:relative;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:26px 24px;box-shadow:var(--shadow);overflow:hidden}
 .stat::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(var(--green),var(--magenta))}
@@ -172,7 +649,7 @@ p{margin:16px 0}
 .arrow{color:var(--coral);font-style:italic}
 .stat .desc{margin-top:12px;font-size:14.5px;color:var(--ink-soft)}
 @media(max-width:760px){.stats{grid-template-columns:1fr}}
-
+ 
 /* method */
 .signals{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-top:30px}
 .sig{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:20px 16px;transition:.22s}
@@ -182,24 +659,24 @@ p{margin:16px 0}
 .sig p{margin:0;font-size:13px;line-height:1.5;color:var(--ink-soft)}
 @media(max-width:900px){.signals{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:480px){.signals{grid-template-columns:1fr}}
-
+ 
 .backbones{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}
 .bb{display:flex;flex-direction:column;gap:2px;padding:12px 18px 12px 16px;border:1px solid var(--line);border-left:4px solid var(--bbc,var(--green));border-radius:12px;background:var(--card)}
 .bb b{font-size:15px;color:var(--bbc)}
 .bb span{font-size:12.5px;color:var(--ink-soft);font-family:var(--mono)}
 .note{font-family:var(--mono);font-size:12.5px;color:var(--ink-soft);margin-top:14px}
-
+ 
 figure.fig{margin:30px 0 0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:var(--card);box-shadow:var(--shadow)}
 figure.fig img{width:100%;display:block}
 .fig__ph{display:none;align-items:center;justify-content:center;min-height:200px;color:var(--ink-soft);background:repeating-linear-gradient(45deg,var(--paper-2),var(--paper-2) 12px,var(--card) 12px,var(--card) 24px);font-family:var(--mono);font-size:13px;text-align:center;padding:30px;line-height:1.7}
 figcaption{padding:14px 20px;border-top:1px solid var(--line);font-size:13.5px;color:var(--ink-soft)}
 figcaption b{color:var(--ink)}
-
+ 
 .takeaway{display:flex;gap:14px;align-items:flex-start;border:1px solid color-mix(in srgb,var(--green) 35%,var(--line));background:linear-gradient(110deg,var(--green-wash),color-mix(in srgb,var(--magenta) 9%,var(--card)));border-radius:14px;padding:18px 22px;margin-top:30px}
 .takeaway .ar{color:var(--green);font-weight:700;flex:0 0 auto;margin-top:1px;font-size:18px}
 .takeaway p{margin:0;font-size:15.5px}
 .takeaway b{color:var(--green-deep)}
-
+ 
 .tablewrap{margin-top:30px;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:var(--card);box-shadow:var(--shadow)}
 table{width:100%;border-collapse:collapse;font-size:14.5px}
 caption{caption-side:top;text-align:left;padding:16px 20px 4px;font-size:13.5px;color:var(--ink-soft)}
@@ -211,7 +688,7 @@ tr.geophys{background:linear-gradient(90deg,var(--green-wash),transparent);font-
 tr.geophys td{color:var(--green-deep)}
 td .win{color:var(--green);font-weight:700}
 .muted{color:var(--ink-soft)}
-
+ 
 /* generation bars (figure-7 colours) */
 .bars{margin-top:28px;display:flex;flex-direction:column;gap:12px}
 .bar-row{display:grid;grid-template-columns:160px 1fr 60px;align-items:center;gap:14px}
@@ -225,7 +702,7 @@ td .win{color:var(--green);font-weight:700}
 .bar-row.ours .val{color:var(--green-deep)}
 .bar-row.ours .bar-fill{box-shadow:0 0 0 1px color-mix(in srgb,var(--green) 50%,transparent) inset}
 @media(max-width:640px){.bar-row{grid-template-columns:104px 1fr 46px;gap:8px}.bar-row .name{font-size:12.5px}}
-
+ 
 .compute{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
 .cc{border:1px solid var(--line);border-radius:15px;padding:22px;background:var(--card)}
 .cc.win{border-color:color-mix(in srgb,var(--green) 40%,var(--line));background:linear-gradient(135deg,var(--green-wash),var(--card))}
@@ -234,34 +711,34 @@ td .win{color:var(--green);font-weight:700}
 .cc.win .v{color:var(--green-deep)}
 .cc .sub{font-size:13px;color:var(--ink-soft);margin-top:8px}
 @media(max-width:760px){.compute{grid-template-columns:1fr}}
-
+ 
 .honest{border-left:3px solid var(--coral);background:var(--coral-wash);border-radius:0 14px 14px 0;padding:18px 22px;margin-top:28px}
 .honest h4{margin:0 0 6px;font-size:15px}
 .honest p{margin:0;font-size:14.5px;color:var(--ink-soft)}
-
+ 
 .codecard{position:relative;margin-top:26px;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:#0c130f}
 .codecard pre{margin:0;padding:26px 24px;overflow-x:auto;font-family:var(--mono);font-size:13.5px;line-height:1.7;color:#e7ecdf}
 .codecard::before{content:"";position:absolute;left:0;top:0;width:4px;height:100%;background:linear-gradient(var(--green-br),var(--magenta))}
 .copy{position:absolute;top:14px;right:14px;border:1px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#e7ecdf;font-family:var(--mono);font-size:12px;padding:7px 12px;border-radius:8px;cursor:pointer;transition:.2s}
 .copy:hover{background:var(--green);border-color:var(--green);color:#fff}
-
+ 
 footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
 .footgrid{display:flex;flex-wrap:wrap;justify-content:space-between;gap:24px;align-items:center}
 .foot-links{display:flex;gap:22px;flex-wrap:wrap}
 .foot-links a{color:var(--ink-soft);font-size:14px;font-weight:500}
 .foot-links a:hover{color:var(--green);text-decoration:none}
 .credit{font-size:12.5px;color:var(--ink-soft);margin-top:22px}
-
+ 
 .reveal{opacity:0;transform:translateY(24px);transition:opacity .75s ease,transform .75s ease}
 .reveal.in{opacity:1;transform:none}
 /* scroll progress */
 .scrollbar{position:fixed;top:0;left:0;height:3px;width:0;z-index:70;background:linear-gradient(90deg,var(--green),var(--magenta));box-shadow:0 0 12px color-mix(in srgb,var(--magenta) 55%,transparent)}
-
+ 
 /* active nav link */
 .navlinks a.active{color:var(--green)}
 .navlinks a.active::after{content:"";display:block;height:2px;border-radius:2px;background:linear-gradient(90deg,var(--green),var(--magenta));transform-origin:left;animation:navin .3s ease}
 @keyframes navin{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-
+ 
 /* video showcase */
 .vhead{font-family:var(--display);font-weight:600;font-size:24px;margin:48px 0 0;letter-spacing:-.01em}
 .compare{position:relative;margin-top:24px;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:var(--card);box-shadow:var(--shadow);aspect-ratio:16/9;user-select:none;touch-action:none}
@@ -273,7 +750,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
 .compare .handle i{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:40px;height:40px;border-radius:50%;background:#fff;box-shadow:0 4px 16px rgba(0,0,0,.35);display:grid;place-items:center;color:var(--ink);font-size:15px;font-style:normal}
 .vcap{font-size:13.5px;color:var(--ink-soft);margin-top:12px}
 .vcap b{color:var(--ink)}
-
+ 
 .vgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
 .vcard{position:relative;border:1px solid var(--line);border-radius:15px;overflow:hidden;background:var(--card);box-shadow:var(--shadow);transition:transform .2s ease,box-shadow .25s ease;transform-style:preserve-3d;will-change:transform}
 .vcard:hover{box-shadow:0 26px 52px -28px rgba(20,32,27,.6)}
@@ -286,7 +763,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
 .vcard .dot{position:absolute;left:12px;top:12px;width:9px;height:9px;border-radius:50%;background:var(--vc,var(--green));box-shadow:0 0 0 4px color-mix(in srgb,var(--vc,var(--green)) 24%,transparent);z-index:3}
 .v__ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:var(--ink-soft);background:repeating-linear-gradient(45deg,var(--paper-2),var(--paper-2) 12px,var(--card) 12px,var(--card) 24px);font-family:var(--mono);font-size:12px;text-align:center;padding:18px;line-height:1.7}
 @media(max-width:760px){.vgrid{grid-template-columns:1fr}}
-
+ 
 /* affiliation logo wall */
 .logos-band{padding:34px 0 6px}
 .logos-kicker{text-align:center;font-family:var(--mono);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 24px;display:flex;align-items:center;justify-content:center;gap:14px}
@@ -299,7 +776,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
 .logo-fb{display:none;font-family:var(--display);font-weight:400;font-size:14.5px;line-height:1.18;color:var(--ink-soft);text-align:center;letter-spacing:.005em}
 .logo-fb b{font-weight:600;color:var(--ink);transition:color .3s ease}
 .logo:hover .logo-fb b{color:var(--green)}
-
+ 
 @media(prefers-reduced-motion:reduce){
   .reveal{opacity:1;transform:none}.bar-fill{transition:none}
   .aurora b,.draw{animation:none}.draw{stroke-dashoffset:0}
@@ -308,9 +785,10 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
 </style>
 </head>
 <body>
-
+ 
+<canvas id="netcanvas" aria-hidden="true"></canvas>
 <div class="scrollbar" id="scrollbar"></div>
-
+ 
 <nav>
   <div class="wrap">
     <a class="brand" href="#top">
@@ -331,17 +809,17 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     </div>
   </div>
 </nav>
-
+ 
 <a id="top"></a>
 <header>
   <div class="aurora" aria-hidden="true"><b class="a1"></b><b class="a2"></b><b class="a3"></b></div>
   <canvas id="particles" aria-hidden="true"></canvas>
-
+ 
   <div class="wrap">
     <div class="eyebrow">Preprint · 2026</div>
     <h1>The <span class="em">Geometry</span><br>of Physical Plausibility</h1>
     <p class="lede">Humans flag impossible events in milliseconds. We show that physical plausibility is already written into the geometry of per-frame features from frozen image encoders, with no video or physics training.</p>
-
+ 
     <div class="tags">
       <span class="tag">Training-free</span>
       <span class="tag">Frozen image encoders</span>
@@ -349,7 +827,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       <span class="tag">Best-of-N verifier</span>
       <span class="tag">NeuroAI</span>
     </div>
-
+ 
     <div class="authors">
       <a href="https://github.com/ChristianInterno">Christian Internò</a><sup>1*</sup>,
       Alexander Pondaven<sup>2</sup>,
@@ -367,7 +845,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       <sup>1</sup>Bielefeld University &nbsp; <sup>2</sup>University of Oxford &nbsp; <sup>3</sup>Cold Spring Harbor Laboratory &nbsp; <sup>4</sup>MBZUAI &nbsp; <sup>5</sup>Honda Research Institute EU &nbsp; <sup>6</sup>New York University &nbsp; <sup>7</sup>Flatiron Institute, Simons Foundation
       <span class="corr"><sup>*</sup>Correspondence: <a href="mailto:christian.interno@uni-bielefeld.de">christian.interno@uni-bielefeld.de</a></span>
     </div>
-
+ 
     <div class="btns">
       <!-- TODO: replace href="#" with the arXiv abstract URL once the paper is posted -->
       <a class="btn" href="#" id="paperBtn">
@@ -384,7 +862,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       </a>
     </div>
   </div>
-
+ 
   <div class="wrap">
     <div class="teaser">
       <svg class="svgbox" viewBox="0 0 1040 360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Plausible versus violated feature-space trajectories">
@@ -394,14 +872,14 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
         <line x1="60" y1="320" x2="980" y2="320" stroke="var(--line)" stroke-width="1.5"/>
         <text x="60" y="345" font-family="IBM Plex Mono" font-size="13" fill="var(--ink-soft)">time</text>
         <text x="22" y="60" font-family="IBM Plex Mono" font-size="13" fill="var(--ink-soft)" transform="rotate(-90 22 60)">feature space</text>
-
+ 
         <!-- plausible -->
         <path id="plausPath" class="draw" d="M120,150 L260,118 L400,138 L540,96 L680,120 L820,88 L960,108" fill="none" stroke="var(--green)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
         <g fill="var(--green)"><circle cx="120" cy="150" r="6"/><circle cx="260" cy="118" r="6"/><circle cx="400" cy="138" r="6"/><circle cx="540" cy="96" r="6"/><circle cx="680" cy="120" r="6"/><circle cx="820" cy="88" r="6"/><circle cx="960" cy="108" r="6"/></g>
         <circle r="8" fill="var(--green)" filter="url(#glow)"><animateMotion dur="3.8s" repeatCount="indefinite" calcMode="linear"><mpath xlink:href="#plausPath"/></animateMotion></circle>
         <text x="120" y="98" font-family="Fraunces" font-style="italic" font-size="22" fill="var(--green)">Plausible</text>
         <text x="120" y="80" font-family="IBM Plex Mono" font-size="12" fill="var(--ink-soft)">smooth, locally linear</text>
-
+ 
         <!-- violated -->
         <path id="violPath" class="draw" d="M120,250 L260,210 L400,288 L540,196 L680,300 L820,214 L960,272" fill="none" stroke="var(--coral)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
         <g fill="var(--coral)"><circle cx="120" cy="250" r="6"/><circle cx="260" cy="210" r="6"/><circle cx="400" cy="288" r="6"/><circle cx="540" cy="196" r="6"/><circle cx="680" cy="300" r="6"/><circle cx="820" cy="214" r="6"/><circle cx="960" cy="272" r="6"/></g>
@@ -413,7 +891,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     </div>
   </div>
 </header>
-
+ 
 <section class="logos-band reveal" aria-label="Affiliations">
   <div class="wrap">
     <p class="logos-kicker">A collaboration across</p>
@@ -428,21 +906,21 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"></div>
-
+ 
 <section id="overview">
   <div class="wrap reveal">
     <div class="kicker">Abstract</div>
     <h2>One score, three jobs</h2>
     <p>While humans can identify physically implausible events within milliseconds, machine learning approaches addressing the same problem are extremely slow and expensive. They either rely on external multimodal-LLM judges or require ad-hoc modifications to the training procedure. In this work, we argue that indicators of physical plausibility are implicitly captured by five geometric properties of the per-frame embeddings produced by frozen image encoders. In aggregate, we call them GeoPhys.</p>
     <p>First, these signals correlate with human EEG responses to two forms of object-permanence violation. Second, GeoPhys robustly discriminates physically implausible videos from realistic ones, achieving state-of-the-art physics-violation detection: 98.3% on LikePhys and 93.3% on IntPhys2, whereas V-JEPA 2, GPT-4o, Gemini, and twelve modern video diffusion models perform near chance. Third, used as a best-of-N verifier for physical alignment during generation, GeoPhys lifts MAGI-1 24B from 50.01% to 64.50% on PhysicsIQ at 1.5&times; lower wall-clock and 4.65&times; lower memory than the V-JEPA 2 world-model verifier.</p>
-
+ 
     <div class="tldr">
       <div class="lbl">TL;DR</div>
       <p>Physical plausibility is a geometric property of feature trajectories through frozen image encoders. No video pretraining, no physics supervision, no learned ranker. Five kinematic signals on these paths set new detection records and steer video generation as a cheap verifier.</p>
     </div>
-
+ 
     <div class="stats">
       <div class="stat">
         <div class="big"><span class="gnum" data-count="98.3" data-suffix="%">0</span></div>
@@ -459,15 +937,15 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"></div>
-
+ 
 <section id="method">
   <div class="wrap reveal">
     <div class="kicker">Method</div>
     <h2>Five signals on a feature trajectory</h2>
     <p class="section-lead">GeoPhys reads physical plausibility from the shape of a video's path through feature space. The same score runs unchanged across every backbone and every setting. There is no retraining and no fine-tuning.</p>
-
+ 
     <div class="signals">
       <div class="sig">
         <svg class="ic" viewBox="0 0 60 46"><polyline points="6,30 22,20 38,26 54,12" fill="none" stroke="var(--green)" stroke-width="3" stroke-linecap="round"/><circle cx="22" cy="20" r="3.5" fill="var(--coral)"/></svg>
@@ -495,9 +973,9 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
         <p>Error of a linear auto-regressive predictor. Spikes when a violation breaks the local low-dimensional structure.</p>
       </div>
     </div>
-
+ 
     <p style="margin-top:34px">The score runs on four frozen backbones spanning self-supervised transformers and explicit models of primate visual cortex. None is trained on video or physics. For each backbone we pick the readout layer that maximises the plausible-versus-violated curvature gap on a held-out split.</p>
-
+ 
     <div class="backbones">
       <div class="bb" style="--bbc:var(--violet)"><b>DINOv2</b><span>ViT-L/14 · self-supervised</span></div>
       <div class="bb" style="--bbc:var(--navy)"><b>DINOv3</b><span>ViT-L · SSL + registers</span></div>
@@ -505,7 +983,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       <div class="bb" style="--bbc:var(--magenta)"><b>VOneNet</b><span>Gabor V1 + ResNet-50</span></div>
     </div>
     <p class="note">Backbones are complementary: each one specialises in a different signal and wins a different physics domain.</p>
-
+ 
     <figure class="fig" data-fig="static/images/pipeline.png">
       <img src="static/images/pipeline.png" alt="GeoPhys pipeline: frames feed a frozen backbone, producing a pooled per-frame feature trajectory on which five kinematic signals operate." onerror="figFail(this)">
       <div class="fig__ph">Optional figure slot &middot; drop <b>static/images/pipeline.png</b> here<br>(paper Figure 2: GeoPhys pipeline)</div>
@@ -513,37 +991,37 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     </figure>
   </div>
 </section>
-
+ 
 <div class="divider"></div>
-
+ 
 <section id="brain">
   <div class="wrap reveal">
     <div class="kicker"><span class="badge">1</span> Study 1 · Neural alignment</div>
     <h2>It tracks the brain</h2>
     <p class="section-lead">A useful signal should reflect a real phenomenon, not an artefact of pretraining statistics. We compare per-frame GeoPhys signals against human EEG on matched violation-of-expectation stimuli.</p>
     <p>On two object-permanence scenarios, Create (one object enters an occluder, two emerge) and Vanish (two enter, one emerges), CORnet-S IT speed follows the contralateral delay activity, an EEG marker of visual working memory. Both rise and stay elevated after the violation, and the GeoPhys signal scales with the number of tracked objects.</p>
-
+ 
     <figure class="fig" data-fig="static/images/brain.png">
       <img src="static/images/brain.png" alt="Model and brain comparison: GeoPhys CORnet-S IT speed and human EEG contralateral delay activity for the Create object-permanence scenario." onerror="figFail(this)">
       <div class="fig__ph">Drop <b>static/images/brain.png</b> here<br>(paper Figure 4: model and brain comparison)</div>
       <figcaption><b>Model and brain.</b> GeoPhys CORnet-S IT speed and the human EEG contralateral delay activity are both elevated in the invalid condition after occlusion offset, and scale with object number.</figcaption>
     </figure>
-
+ 
     <div class="takeaway">
       <span class="ar">&rarr;</span>
       <p><b>Takeaway 1.</b> GeoPhys signals align with human EEG responses to object-permanence violations and scale with object number, consistent with physical-violation perception.</p>
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"></div>
-
+ 
 <section id="detection">
   <div class="wrap reveal">
     <div class="kicker"><span class="badge">2</span> Study 2 · Detection</div>
     <h2>It detects violations at scale</h2>
     <p class="section-lead">Each benchmark presents matched pairs that share initial conditions, where one video is physically impossible. The task is to find it. Every frozen backbone beats every published baseline; an OR ensemble sets a new state of the art.</p>
-
+ 
     <div class="tablewrap">
       <table>
         <caption>Pairwise physics-violation accuracy (%). Main-set average per benchmark. Higher is better.</caption>
@@ -566,29 +1044,29 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       </table>
     </div>
     <p class="note">A leave-one-scene-out linear probe on the same DINOv3 features reaches only 62.4% on LikePhys, so the gain comes from trajectory geometry, not the backbone alone.</p>
-
+ 
     <figure class="fig" data-fig="static/images/detection.png">
       <img src="static/images/detection.png" alt="ROC curves and complementarity analysis for physics-violation detection on LikePhys and IntPhys2." onerror="figFail(this)">
       <div class="fig__ph">Optional figure slot &middot; drop <b>static/images/detection.png</b> here<br>(paper Figure 5 or 6: complementarity / ROC)</div>
       <figcaption><b>Backbones are complementary.</b> Each one flags a different set of violations and wins a different physics domain, so the OR ensemble recovers what any single backbone misses.</figcaption>
     </figure>
-
+ 
     <div class="takeaway">
       <span class="ar">&rarr;</span>
       <p><b>Takeaway 2.</b> GeoPhys unlocks physics-plausibility detection: every backbone surpasses all state-of-the-art baselines on both benchmarks (LikePhys 98% and IntPhys2 93%).</p>
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"></div>
-
+ 
 <section id="generation">
   <div class="wrap reveal">
     <div class="kicker"><span class="badge">3</span> Study 3 · Generation</div>
     <h2>It steers video generation</h2>
     <p class="section-lead">Beyond passive measurement, GeoPhys transfers to active control. As a best-of-N verifier it reranks a generator's candidates by plausibility, with no learned ranker and no PhysicsIQ-specific tuning.</p>
     <p>On PhysicsIQ (MAGI-1 24B, video-to-video, N = 16) GeoPhys outscores every inference-time verifier and closes more of the gap to the oracle ceiling than a billion-parameter world model.</p>
-
+ 
     <div class="bars" id="bars">
       <div class="bar-row"><div class="name">No verifier</div><div class="bar-track"><div class="bar-fill dash" data-val="50.01"></div></div><div class="val">50.0</div></div>
       <div class="bar-row"><div class="name">Qwen2.5-VL</div><div class="bar-track"><div class="bar-fill" style="--bc:var(--orange)" data-val="50.6"></div></div><div class="val">50.6</div></div>
@@ -599,7 +1077,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       <div class="bar-row"><div class="name">Oracle (upper bound)</div><div class="bar-track"><div class="bar-fill oracle" data-val="72.9"></div></div><div class="val">72.9</div></div>
     </div>
     <p class="note">PhysicsIQ score (%) for the matched candidate pool. Bars scaled within the 40&ndash;75% range for readability; colours follow the paper's per-verifier legend.</p>
-
+ 
     <h3 style="font-family:var(--display);font-weight:600;font-size:24px;margin:46px 0 0;letter-spacing:-.01em">Cheaper, by a wide margin</h3>
     <div class="compute">
       <div class="cc win">
@@ -619,10 +1097,10 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       </div>
     </div>
     <p class="note">1.5&times; lower wall-clock and 4.65&times; lower memory than the world-model verifier. At a fixed budget that is roughly 5&times; more candidates.</p>
-
+ 
     <h3 class="vhead">Results in motion</h3>
     <p style="margin-top:10px;color:var(--ink-soft);max-width:760px">Drag the divider to compare the no-verifier baseline against the GeoPhys best-of-N selection on the same conditioning frame.</p>
-
+ 
     <div class="compare" id="compare">
       <video class="before" muted loop playsinline preload="metadata"><source src="static/videos/compare_baseline.mp4" type="video/mp4"></video>
       <video class="after"  muted loop playsinline preload="metadata"><source src="static/videos/compare_geophys.mp4"  type="video/mp4"></video>
@@ -633,7 +1111,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       <div class="handle" id="handle"><i>&#10231;</i></div>
     </div>
     <p class="vcap"><b>Before / after.</b> Same scenario, same candidate pool. The baseline takes a random sample; GeoPhys reranks by plausibility.</p>
-
+ 
     <div class="vgrid" id="vgrid">
       <div class="vcard">
         <div class="vwrap"><span class="dot" style="--vc:var(--orange)"></span>
@@ -667,21 +1145,21 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       </div>
     </div>
     <p class="note">Best-of-N selection across the five PhysicsIQ families (N = 16, MAGI-1 24B, V2V). Clips loop muted. &Delta; is the per-scenario PhysicsIQ gain over baseline.</p>
-
+ 
     <div class="takeaway">
       <span class="ar">&rarr;</span>
       <p><b>Takeaway 3.</b> Test-time compute scales physically plausible generation, but only with the right verifier. GeoPhys closes the gap to the oracle faster than world-model and other verifiers, at 4.65&times; less compute, using only frozen image encoders.</p>
     </div>
-
+ 
     <div class="honest">
       <h4>What GeoPhys is, and is not</h4>
       <p>We do not claim frozen backbones represent or simulate physics. GeoPhys is a correlate of plausibility, not an implementation. The signals are time-symmetric, and the best-of-N result is bounded by candidate diversity. We see GeoPhys as a diagnostic for current generators, not a substitute for a genuine world model.</p>
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"></div>
-
+ 
 <section id="cite">
   <div class="wrap reveal">
     <div class="kicker">Citation</div>
@@ -703,7 +1181,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     <p class="note">Replace <b>arXiv:XXXX.XXXXX</b> with the assigned identifier once the preprint is posted.</p>
   </div>
 </section>
-
+ 
 <footer>
   <div class="wrap">
     <div class="footgrid">
@@ -723,7 +1201,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     <p class="credit">Project page in the spirit of the Nerfies, LeJEPA, and PBT-NCA templates. Acknowledgements: Honda Research Institute Europe, and NIH grant S10OD028632-01.</p>
   </div>
 </footer>
-
+ 
 <script>
 (function(){
   var root=document.documentElement, btn=document.getElementById('themeBtn');
@@ -737,7 +1215,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     try{localStorage.setItem('geophys-theme',next);}catch(e){}
     sync();
   });
-
+ 
   var copyBtn=document.getElementById('copyBtn');
   copyBtn.addEventListener('click',function(){
     var txt=document.getElementById('bib').innerText;
@@ -745,16 +1223,16 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       copyBtn.textContent='Copied'; setTimeout(function(){copyBtn.textContent='Copy';},1600);
     }).catch(function(){copyBtn.textContent='Select manually';});
   });
-
+ 
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
+ 
   // reveal + count-up
   var io=new IntersectionObserver(function(entries){
     entries.forEach(function(e){
       if(e.isIntersecting){ e.target.classList.add('in'); countUp(e.target); io.unobserve(e.target);} });
   },{threshold:.12});
   document.querySelectorAll('.reveal').forEach(function(el){io.observe(el);});
-
+ 
   function countUp(scope){
     scope.querySelectorAll('[data-count]').forEach(function(el){
       if(el.dataset.done) return; el.dataset.done='1';
@@ -768,7 +1246,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       requestAnimationFrame(step);
     });
   }
-
+ 
   // generation bars
   var lo=40, hi=75, gen=document.getElementById('generation');
   var bo=new IntersectionObserver(function(entries){
@@ -783,7 +1261,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     });
   },{threshold:.3});
   if(gen) bo.observe(gen);
-
+ 
   // hero particle drift (echoes the Blender renders)
   if(!reduce){
     var cv=document.getElementById('particles'), cx=cv.getContext('2d'), ps=[], W,H;
@@ -801,7 +1279,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     }
     frame();
   }
-
+ 
   // scroll progress bar
   var sb=document.getElementById('scrollbar');
   function onScroll(){
@@ -811,7 +1289,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
   }
   window.addEventListener('scroll',onScroll,{passive:true});
   window.addEventListener('resize',onScroll); onScroll();
-
+ 
   // scroll-spy active nav link
   var secs=[].slice.call(document.querySelectorAll('section[id]'));
   var links={}; document.querySelectorAll('.navlinks a[href^="#"]').forEach(function(a){ links[a.getAttribute('href').slice(1)]=a; });
@@ -824,7 +1302,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     });
   },{rootMargin:'-45% 0px -50% 0px'});
   secs.forEach(function(s){spy.observe(s);});
-
+ 
   // subtle tilt on video cards
   if(!reduce){
     document.querySelectorAll('.vcard').forEach(function(card){
@@ -836,7 +1314,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
       card.addEventListener('pointerleave',function(){card.style.transform='';});
     });
   }
-
+ 
   // before / after compare slider
   var cmp=document.getElementById('compare');
   if(cmp){
@@ -856,7 +1334,7 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     cmp.addEventListener('pointerup',function(){drag=false;});
     cmp.addEventListener('pointercancel',function(){drag=false;});
   }
-
+ 
   // reveal videos once they load; keep placeholder until then
   document.querySelectorAll('.vcard video, .compare video').forEach(function(v){
     var ph;
@@ -873,13 +1351,13 @@ footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:40px}
     v.load();
   });
 })();
-
+ 
 function figFail(img){
   img.style.display='none';
   var ph=img.parentNode.querySelector('.fig__ph');
   if(ph) ph.style.display='flex';
 }
-
+ 
 function logoFail(img){
   var s=img.getAttribute('src')||'';
   if(/\.svg$/i.test(s)){ img.setAttribute('src', s.replace(/\.svg$/i,'.png')); return; }
@@ -891,3 +1369,5 @@ function logoFail(img){
 </script>
 </body>
 </html>
+ 
+
