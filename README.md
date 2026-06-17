@@ -19,6 +19,11 @@ A frozen image encoder maps each video frame to a pooled feature; stacked across
 
 The same score is applied unchanged across three settings: alignment with human EEG responses to object-permanence violations, physics-violation detection, and inference-time best-of-N verification for video generation.
 
+
+## Code
+
+**The code will be released here soon.** Watch or star the repository to be notified when it lands.
+
 ## Highlights
 
 - **State-of-the-art detection.** 98.3% on LikePhys and 93.3% on IntPhys2, where V-JEPA 2, GPT-4o, Gemini, and twelve modern video diffusion models sit near chance.
@@ -26,10 +31,6 @@ The same score is applied unchanged across three settings: alignment with human 
 - **Four frozen backbones.** DINOv2, DINOv3, CORnet-S, and VOneNet, none trained on video or physics.
 
 See the [project page](https://christianinterno.github.io/GeoPhys/) for figures, interactive comparisons, and the full result tables, and the [paper](https://christianinterno.github.io/GeoPhys/GeoPhys.pdf) for details.
-
-## Code
-
-**The code will be released here soon.** Watch or star the repository to be notified when it lands. An arXiv link will be added once the preprint is announced.
 
 ## Citation
 
