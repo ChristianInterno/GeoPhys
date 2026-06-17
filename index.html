@@ -9,6 +9,25 @@
 <meta property="og:title" content="GeoPhys: The Geometry of Physical Plausibility">
 <meta property="og:description" content="Physical plausibility is written into the geometry of per-frame features from frozen image encoders.">
 <meta property="og:type" content="website">
+<!-- Google Scholar citation metadata (Highwire Press tags). Author list and title MUST match the PDF exactly. -->
+<meta name="citation_title" content="GeoPhys: The Geometry of Physical Plausibility">
+<meta name="citation_author" content="Internò, Christian">
+<meta name="citation_author" content="Pondaven, Alexander">
+<meta name="citation_author" content="Issa, Habon">
+<meta name="citation_author" content="Pizzati, Fabio">
+<meta name="citation_author" content="Pinto, Francesco">
+<meta name="citation_author" content="Olhofer, Markus">
+<meta name="citation_author" content="Laptev, Ivan">
+<meta name="citation_author" content="Torr, Philip">
+<meta name="citation_author" content="Simoncelli, Eero P.">
+<meta name="citation_author" content="Hammer, Barbara">
+<meta name="citation_author" content="Klindt, David">
+<meta name="citation_publication_date" content="2026">
+<meta name="citation_pdf_url" content="https://christianinterno.github.io/GeoPhys/GeoPhys.pdf">
+<meta name="citation_abstract_html_url" content="https://christianinterno.github.io/GeoPhys/">
+<meta name="citation_language" content="en">
+<meta name="citation_keywords" content="physical plausibility; intuitive physics; frozen image encoders; video generation; NeuroAI">
+<!-- After depositing on Zenodo, add the DOI here: <meta name="citation_doi" content="10.5281/zenodo.XXXXXXX"> -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -336,23 +355,23 @@ a.bb b::after{content:"\2197";font-size:.78em;color:var(--ink-soft);font-weight:
 <a id="top"></a>
 <header>
   <div class="wrap">
-    <h1>The <span class="em">Geometry</span> of<br>Physical Plausibility</h1>
+    <h1><span class="em">GeoPhys</span>: The Geometry of<br>Physical Plausibility</h1>
 
     <div class="authors">
       <a href="https://scholar.google.com/citations?user=melu9g0AAAAJ&hl=en" target="_blank" rel="noopener">Christian Internò</a><sup>1*</sup>,
       <a href="https://scholar.google.com/citations?user=_Aj3cO0AAAAJ&hl=en" target="_blank" rel="noopener">Alexander Pondaven</a><sup>2</sup>,
       <a href="https://scholar.google.com/citations?user=MPWyGs0AAAAJ&hl=en" target="_blank" rel="noopener">Habon Issa</a><sup>3</sup>,
       <a href="https://scholar.google.com/citations?user=kA_l7GYAAAAJ&hl=en" target="_blank" rel="noopener">Fabio Pizzati</a><sup>4</sup>,
-      <a href="https://scholar.google.com/citations?user=rqAdo2MAAAAJ&hl=en" target="_blank" rel="noopener">Francesco Pinto</a>,
-      <a href="https://scholar.google.com/citations?user=m9LqY6cAAAAJ&hl=en" target="_blank" rel="noopener">Markus Olhofer</a><sup>5</sup>,
+      <a href="https://scholar.google.com/citations?user=rqAdo2MAAAAJ&hl=en" target="_blank" rel="noopener">Francesco Pinto</a><sup>5</sup>,
+      <a href="https://scholar.google.com/citations?user=m9LqY6cAAAAJ&hl=en" target="_blank" rel="noopener">Markus Olhofer</a><sup>6</sup>,
       <a href="https://scholar.google.com/citations?user=-9ifK0cAAAAJ&hl=en" target="_blank" rel="noopener">Ivan Laptev</a><sup>4</sup>,
       <a href="https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en" target="_blank" rel="noopener">Philip Torr</a><sup>2</sup>,
-      <a href="https://scholar.google.com/citations?user=MplR7_cAAAAJ&hl=en" target="_blank" rel="noopener">Eero P. Simoncelli</a><sup>6,7</sup>,
+      <a href="https://scholar.google.com/citations?user=MplR7_cAAAAJ&hl=en" target="_blank" rel="noopener">Eero P. Simoncelli</a><sup>7,8</sup>,
       <a href="https://scholar.google.com/citations?user=1d3OxaUAAAAJ&hl=en" target="_blank" rel="noopener">Barbara Hammer</a><sup>1</sup>,
       <a href="https://scholar.google.com/citations?user=EpT-nUAAAAAJ&hl=en" target="_blank" rel="noopener">David Klindt</a><sup>3</sup>
     </div>
     <div class="affil">
-      <sup>1</sup>Bielefeld University &nbsp; <sup>2</sup>University of Oxford &nbsp; <sup>3</sup>Cold Spring Harbor Laboratory &nbsp; <sup>4</sup>MBZUAI &nbsp; <sup>5</sup>Honda Research Institute EU &nbsp; <sup>6</sup>New York University &nbsp; <sup>7</sup>Flatiron Institute, Simons Foundation
+      <sup>1</sup>Bielefeld University &nbsp; <sup>2</sup>University of Oxford &nbsp; <sup>3</sup>Cold Spring Harbor Laboratory &nbsp; <sup>4</sup>MBZUAI &nbsp; <sup>5</sup>Independent &nbsp; <sup>6</sup>Honda Research Institute EU &nbsp; <sup>7</sup>New York University &nbsp; <sup>8</sup>Flatiron Institute, Simons Foundation
     </div>
     <div class="corr"><sup>*</sup>Correspondence: <a href="mailto:christian.interno@uni-bielefeld.de">christian.interno@uni-bielefeld.de</a></div>
 
@@ -367,8 +386,8 @@ a.bb b::after{content:"\2197";font-size:.78em;color:var(--ink-soft);font-weight:
     </div>
 
     <div class="btns">
-      <!-- TODO: replace href="#" with the arXiv URL once posted -->
-      <a class="btn" href="#" id="paperBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6"/></svg>Paper</a>
+      <!-- Paper PDF served from GitHub Pages, so it cites without arXiv. Commit the file as GeoPhys.pdf at the repo root. -->
+      <a class="btn" href="https://christianinterno.github.io/GeoPhys/GeoPhys.pdf" id="paperBtn" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6"/></svg>Paper</a>
       <a class="btn ghost" href="https://github.com/ChristianInterno/GeoPhys"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.4-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17 4.6 18 4.9 18 4.9c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>Code</a>
       <a class="btn ghost" href="#cite"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h10"/></svg>BibTeX</a>
     </div>
@@ -578,10 +597,10 @@ a.bb b::after{content:"\2197";font-size:.78em;color:var(--ink-soft);font-weight:
   <div class="wrap reveal">
     <h2>It steers video generation</h2>
     <p class="section-lead">Beyond passive measurement, GeoPhys transfers to active control. As a best-of-N verifier it reranks a generator's candidates by plausibility, with no learned ranker and no PhysicsIQ-specific tuning.</p>
-    <p>On PhysicsIQ (MAGI-1 24B, video-to-video, N = 16) GeoPhys outscores every inference-time verifier and closes more of the gap to the oracle ceiling than a billion-parameter world model.</p>
+    <p>On PhysicsIQ GeoPhys outscores every inference-time verifier and closes more of the gap to the oracle ceiling than a billion-parameter world model.</p>
 
         <div class="chart-card"><svg viewBox="0 0 880 478" xmlns="http://www.w3.org/2000/svg" role="img"><style>text{font-family:var(--body),sans-serif;fill:var(--ink,#1a1d21)}.mono{font-family:var(--mono),monospace}.ax{fill:var(--ink-soft,#586170)}</style><line x1="46" y1="410.0" x2="872" y2="410.0" stroke="var(--line,#e6e8eb)" stroke-width="1"/><text class="mono ax" x="40" y="413.5" font-size="10" text-anchor="end">0</text><line x1="46" y1="346.4" x2="872" y2="346.4" stroke="var(--line,#e6e8eb)" stroke-width="1"/><text class="mono ax" x="40" y="349.9" font-size="10" text-anchor="end">15</text><line x1="46" y1="282.8" x2="872" y2="282.8" stroke="var(--line,#e6e8eb)" stroke-width="1"/><text class="mono ax" x="40" y="286.3" font-size="10" text-anchor="end">30</text><line x1="46" y1="219.2" x2="872" y2="219.2" stroke="var(--line,#e6e8eb)" stroke-width="1"/><text class="mono ax" x="40" y="222.7" font-size="10" text-anchor="end">45</text><line x1="46" y1="155.6" x2="872" y2="155.6" stroke="var(--line,#e6e8eb)" stroke-width="1"/><text class="mono ax" x="40" y="159.1" font-size="10" text-anchor="end">60</text><line x1="46" y1="92.0" x2="872" y2="92.0" stroke="var(--line,#e6e8eb)" stroke-width="1"/><text class="mono ax" x="40" y="95.5" font-size="10" text-anchor="end">75</text><text class="ax" x="14" y="251.0" font-size="10.5" text-anchor="middle" transform="rotate(-90 14 251.0)">PhysicsIQ score (%)</text><rect x="64" y="24" width="13" height="13" rx="3" fill="var(--ink-soft,#586170)" opacity="0.55"/><text x="82" y="34.5" font-size="11">Baseline</text><rect x="153.6" y="24" width="13" height="13" rx="3" fill="var(--violet,#6d49a8)" opacity="1"/><text x="171.6" y="34.5" font-size="11">VideoMAE</text><rect x="243.2" y="24" width="13" height="13" rx="3" fill="var(--orange,#cf8418)" opacity="1"/><text x="261.2" y="34.5" font-size="11">Qwen2.5-VL</text><rect x="347.2" y="24" width="13" height="13" rx="3" fill="var(--coral,#d8442b)" opacity="1"/><text x="365.2" y="34.5" font-size="11">Qwen3-VL</text><rect x="436.79999999999995" y="24" width="13" height="13" rx="3" fill="var(--olive,#8d9b34)" opacity="1"/><text x="454.79999999999995" y="34.5" font-size="11">WMReward</text><rect x="526.4" y="24" width="13" height="13" rx="3" fill="var(--green,#0f7a50)" opacity="1"/><text x="544.4" y="34.5" font-size="11">GeoPhys</text><rect x="608.8" y="24" width="13" height="13" rx="3" fill="var(--navy,#2c4296)" opacity="0.45"/><text x="626.8" y="34.5" font-size="11">Oracle</text><rect x="61.0" y="330.3" width="16.3" height="79.7" rx="2" fill="var(--ink-soft,#586170)" opacity="0.55"/><text class="mono" x="69.1" y="327.3" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">18.8</text><rect x="80.8" y="346.4" width="16.3" height="63.6" rx="2" fill="var(--violet,#6d49a8)" opacity="1"/><text class="mono" x="89.0" y="343.4" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">15.0</text><rect x="100.6" y="323.9" width="16.3" height="86.1" rx="2" fill="var(--orange,#cf8418)" opacity="1"/><text class="mono" x="108.8" y="320.9" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">20.3</text><rect x="120.5" y="282.4" width="16.3" height="127.6" rx="2" fill="var(--coral,#d8442b)" opacity="1"/><text class="mono" x="128.6" y="279.4" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">30.1</text><rect x="140.3" y="301.5" width="16.3" height="108.5" rx="2" fill="var(--olive,#8d9b34)" opacity="1"/><text class="mono" x="148.4" y="298.5" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">25.6</text><rect x="160.1" y="265.8" width="16.3" height="144.2" rx="2" fill="var(--green,#0f7a50)" opacity="1" stroke="var(--green-deep,#0a5638)" stroke-width="0.7"/><text class="mono" x="168.2" y="262.8" font-size="7.3" text-anchor="middle" fill="var(--green,#0f7a50)" font-weight="700">34.0</text><rect x="179.9" y="239.6" width="16.3" height="170.4" rx="2" fill="var(--navy,#2c4296)" opacity="0.45"/><text class="mono" x="188.1" y="236.6" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">40.2</text><text x="128.6" y="428.0" font-size="11" text-anchor="middle" font-weight="600">MAGI-1 4.5B</text><text class="ax" x="128.6" y="441.0" font-size="9.5" text-anchor="middle">I2V</text><line x1="211.2" y1="86" x2="211.2" y2="410" stroke="var(--line,#e6e8eb)" stroke-width="1" opacity="0.6"/><rect x="226.2" y="329.9" width="16.3" height="80.1" rx="2" fill="var(--ink-soft,#586170)" opacity="0.55"/><text class="mono" x="234.3" y="326.9" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">18.9</text><rect x="246.0" y="363.4" width="16.3" height="46.6" rx="2" fill="var(--violet,#6d49a8)" opacity="1"/><text class="mono" x="254.2" y="360.4" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">11.0</text><rect x="265.8" y="321.0" width="16.3" height="89.0" rx="2" fill="var(--orange,#cf8418)" opacity="1"/><text class="mono" x="274.0" y="318.0" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">21.0</text><rect x="285.7" y="279.8" width="16.3" height="130.2" rx="2" fill="var(--coral,#d8442b)" opacity="1"/><text class="mono" x="293.8" y="276.8" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">30.7</text><rect x="305.5" y="269.7" width="16.3" height="140.3" rx="2" fill="var(--olive,#8d9b34)" opacity="1"/><text class="mono" x="313.6" y="266.7" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">33.1</text><rect x="325.3" y="265.8" width="16.3" height="144.2" rx="2" fill="var(--green,#0f7a50)" opacity="1" stroke="var(--green-deep,#0a5638)" stroke-width="0.7"/><text class="mono" x="333.4" y="262.8" font-size="7.3" text-anchor="middle" fill="var(--green,#0f7a50)" font-weight="700">34.0</text><rect x="345.1" y="241.7" width="16.3" height="168.3" rx="2" fill="var(--navy,#2c4296)" opacity="0.45"/><text class="mono" x="353.3" y="238.7" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">39.7</text><text x="293.8" y="428.0" font-size="11" text-anchor="middle" font-weight="600">Wan2.1 14B</text><text class="ax" x="293.8" y="441.0" font-size="9.5" text-anchor="middle">I2V</text><line x1="376.4" y1="86" x2="376.4" y2="410" stroke="var(--line,#e6e8eb)" stroke-width="1" opacity="0.6"/><rect x="391.4" y="325.6" width="16.3" height="84.4" rx="2" fill="var(--ink-soft,#586170)" opacity="0.55"/><text class="mono" x="399.5" y="322.6" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">19.9</text><rect x="411.2" y="361.7" width="16.3" height="48.3" rx="2" fill="var(--violet,#6d49a8)" opacity="1"/><text class="mono" x="419.4" y="358.7" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">11.4</text><rect x="431.0" y="319.7" width="16.3" height="90.3" rx="2" fill="var(--orange,#cf8418)" opacity="1"/><text class="mono" x="439.2" y="316.7" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">21.3</text><rect x="450.9" y="279.0" width="16.3" height="131.0" rx="2" fill="var(--coral,#d8442b)" opacity="1"/><text class="mono" x="459.0" y="276.0" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">30.9</text><rect x="470.7" y="269.2" width="16.3" height="140.8" rx="2" fill="var(--olive,#8d9b34)" opacity="1"/><text class="mono" x="478.8" y="266.2" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">33.2</text><rect x="490.5" y="265.4" width="16.3" height="144.6" rx="2" fill="var(--green,#0f7a50)" opacity="1" stroke="var(--green-deep,#0a5638)" stroke-width="0.7"/><text class="mono" x="498.6" y="262.4" font-size="7.3" text-anchor="middle" fill="var(--green,#0f7a50)" font-weight="700">34.1</text><rect x="510.3" y="234.9" width="16.3" height="175.1" rx="2" fill="var(--navy,#2c4296)" opacity="0.45"/><text class="mono" x="518.5" y="231.9" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">41.3</text><text x="459.0" y="428.0" font-size="11" text-anchor="middle" font-weight="600">CogVideoX-5B</text><text class="ax" x="459.0" y="441.0" font-size="9.5" text-anchor="middle">I2V</text><line x1="541.6" y1="86" x2="541.6" y2="410" stroke="var(--line,#e6e8eb)" stroke-width="1" opacity="0.6"/><rect x="556.6" y="284.9" width="16.3" height="125.1" rx="2" fill="var(--ink-soft,#586170)" opacity="0.55"/><text class="mono" x="564.7" y="281.9" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">29.5</text><rect x="576.4" y="310.4" width="16.3" height="99.6" rx="2" fill="var(--violet,#6d49a8)" opacity="1"/><text class="mono" x="584.6" y="307.4" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">23.5</text><rect x="596.2" y="284.1" width="16.3" height="125.9" rx="2" fill="var(--orange,#cf8418)" opacity="1"/><text class="mono" x="604.4" y="281.1" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">29.7</text><rect x="616.1" y="273.0" width="16.3" height="137.0" rx="2" fill="var(--coral,#d8442b)" opacity="1"/><text class="mono" x="624.2" y="270.0" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">32.3</text><rect x="635.9" y="264.6" width="16.3" height="145.4" rx="2" fill="var(--olive,#8d9b34)" opacity="1"/><text class="mono" x="644.0" y="261.6" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">34.3</text><rect x="655.7" y="246.3" width="16.3" height="163.7" rx="2" fill="var(--green,#0f7a50)" opacity="1" stroke="var(--green-deep,#0a5638)" stroke-width="0.7"/><text class="mono" x="663.8" y="243.3" font-size="7.3" text-anchor="middle" fill="var(--green,#0f7a50)" font-weight="700">38.6</text><rect x="675.5" y="239.6" width="16.3" height="170.4" rx="2" fill="var(--navy,#2c4296)" opacity="0.45"/><text class="mono" x="683.7" y="236.6" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">40.2</text><text x="624.2" y="428.0" font-size="11" text-anchor="middle" font-weight="600">MAGI-1 24B</text><text class="ax" x="624.2" y="441.0" font-size="9.5" text-anchor="middle">I2V</text><line x1="706.8" y1="86" x2="706.8" y2="410" stroke="var(--line,#e6e8eb)" stroke-width="1" opacity="0.6"/><rect x="721.8" y="198.0" width="16.3" height="212.0" rx="2" fill="var(--ink-soft,#586170)" opacity="0.55"/><text class="mono" x="729.9" y="195.0" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">50.0</text><rect x="741.6" y="187.0" width="16.3" height="223.0" rx="2" fill="var(--violet,#6d49a8)" opacity="1"/><text class="mono" x="749.8" y="184.0" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">52.6</text><rect x="761.4" y="195.5" width="16.3" height="214.5" rx="2" fill="var(--orange,#cf8418)" opacity="1"/><text class="mono" x="769.6" y="192.5" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">50.6</text><rect x="781.3" y="176.4" width="16.3" height="233.6" rx="2" fill="var(--coral,#d8442b)" opacity="1"/><text class="mono" x="789.4" y="173.4" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">55.1</text><rect x="801.1" y="145.8" width="16.3" height="264.2" rx="2" fill="var(--olive,#8d9b34)" opacity="1"/><text class="mono" x="809.2" y="142.8" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">62.3</text><rect x="820.9" y="136.5" width="16.3" height="273.5" rx="2" fill="var(--green,#0f7a50)" opacity="1" stroke="var(--green-deep,#0a5638)" stroke-width="0.7"/><text class="mono" x="829.0" y="133.5" font-size="7.3" text-anchor="middle" fill="var(--green,#0f7a50)" font-weight="700">64.5</text><rect x="840.7" y="100.9" width="16.3" height="309.1" rx="2" fill="var(--navy,#2c4296)" opacity="0.45"/><text class="mono" x="848.9" y="97.9" font-size="7.3" text-anchor="middle" fill="var(--ink-soft,#586170)" font-weight="400">72.9</text><text x="789.4" y="428.0" font-size="11" text-anchor="middle" font-weight="600">MAGI-1 24B</text><text class="ax" x="789.4" y="441.0" font-size="9.5" text-anchor="middle">V2V</text></svg><div class="chart-cap"><b>Generation results &middot; PhysicsIQ best-of-N (N=16).</b> Every inference-time verifier across all five generator settings. GeoPhys is the strongest real verifier on each, and on MAGI-1 24B V2V reaches 64.5, closing most of the gap from baseline (50.0) to the oracle (72.9).</div></div>
-    <p class="note">PhysicsIQ score (%, higher is better). I2V settings score lower than the V2V setting; GeoPhys leads the real verifiers in every column. Numbers from the paper’s main results table.</p>
+    <p class="note">PhysicsIQ score (%, higher is better). I2V settings score lower than the V2V setting; GeoPhys leads the real verifiers in every column.</p>
 
     <div class="fig-side">
       <div>
@@ -606,9 +625,9 @@ a.bb b::after{content:"\2197";font-size:.78em;color:var(--ink-soft);font-weight:
       <span class="lab l">Baseline</span><span class="lab r">GeoPhys</span>
       <div class="handle" id="handle"><i>&#10231;</i></div>
     </div>
-    <p class="fig-caption"><b>Before / after, per family.</b> Same scenario, same candidate pool. The baseline takes a random sample; GeoPhys reranks by plausibility. &Delta; is the per-scenario PhysicsIQ gain over baseline.</p>
+    <p class="fig-caption"> Same scenario, same candidate pool. The baseline takes a random sample; GeoPhys reranks by plausibility. &Delta; is the per-scenario PhysicsIQ gain over baseline.</p>
 
-    <p style="margin-top:34px;text-align:center"><span class="subhead">Cheaper, by a wide margin.</span> Frozen image encoders cost a fraction of a video-pretrained world model.</p>
+    <p style="margin-top:34px;text-align:center">Cheaper Frozen image encoders cost a fraction of a video-pretrained world model.</p>
     <div class="cheap">
       <div class="memchart">
         <div class="mc-group">
@@ -649,15 +668,14 @@ a.bb b::after{content:"\2197";font-size:.78em;color:var(--ink-soft);font-weight:
     <p class="section-lead">If you find this work useful, please cite it.</p>
     <div class="codecard">
       <button class="copy" id="copyBtn">Copy</button>
-<pre id="bib">@article{interno2026geophys,
+<pre id="bib">@misc{interno2026geophys,
   title   = {GeoPhys: The Geometry of Physical Plausibility},
   author  = {Intern\`{o}, Christian and Pondaven, Alexander and Issa, Habon
              and Pizzati, Fabio and Pinto, Francesco and Olhofer, Markus
              and Laptev, Ivan and Torr, Philip and Simoncelli, Eero P.
              and Hammer, Barbara and Klindt, David},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
   year    = {2026},
-  url     = {https://github.com/ChristianInterno/GeoPhys}
+  url     = {https://christianinterno.github.io/GeoPhys/}
 }</pre>
     </div>
     <!-- <p class="note">Replace <b>arXiv:XXXX.XXXXX</b> with the assigned identifier once the preprint is posted.</p> -->
@@ -668,10 +686,10 @@ a.bb b::after{content:"\2197";font-size:.78em;color:var(--ink-soft);font-weight:
   <div class="wrap">
     <div class="foot-links">
       <a href="https://github.com/ChristianInterno/GeoPhys">GitHub</a>
-      <a href="#" id="paperBtn2">Paper</a>
+      <a href="https://christianinterno.github.io/GeoPhys/GeoPhys.pdf" id="paperBtn2" target="_blank" rel="noopener">Paper</a>
       <a href="mailto:christian.interno@uni-bielefeld.de">Contact</a>
     </div>
-    <!-- <p class="credit">Page template adapted from Nerfies and LeJEPA. Acknowledgements: Honda Research Institute Europe, and NIH grant S10OD028632-01.</p> -->
+    <p class="credit">Paper text and figures &copy; 2026 the authors, licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. Code under the MIT License. Funded by the Honda Research Institute Europe; NIH grant S10OD028632-01.</p>
   </div>
 </footer>
 
