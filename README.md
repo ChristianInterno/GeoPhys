@@ -3,6 +3,7 @@
 # GeoPhys: The Geometry of Physical Plausibility
 
 **Physical plausibility is written into the trajectory geometry of frozen image-encoder features.**
+
 **!The code will be released here soon!** Watch or star the repository to be notified when it lands.
 
 
