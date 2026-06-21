@@ -3,6 +3,8 @@
 # GeoPhys: The Geometry of Physical Plausibility
 
 **Physical plausibility is written into the trajectory geometry of frozen image-encoder features.**
+**!The code will be released here soon!** Watch or star the repository to be notified when it lands.
+
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://christianinterno.github.io/GeoPhys/)
 [![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b)](https://christianinterno.github.io/GeoPhys/GeoPhys.pdf)
@@ -18,11 +20,6 @@
 A frozen image encoder maps each video frame to a pooled feature; stacked across time, the video becomes a trajectory in representation space. Plausible motion keeps that trajectory smooth and locally predictable, while a physical violation disrupts it. GeoPhys reads this off with five training-free kinematic statistics, speed variation, curvature, angle consistency, acceleration, and a linear-prediction residual, computed directly on the features with no learned parameters.
 
 The same score is applied unchanged across three settings: alignment with human EEG responses to object-permanence violations, physics-violation detection, and inference-time best-of-N verification for video generation.
-
-
-## Code
-
-**The code will be released here soon.** Watch or star the repository to be notified when it lands.
 
 ## Highlights
 
