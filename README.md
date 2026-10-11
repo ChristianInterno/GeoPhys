@@ -32,7 +32,7 @@ The same score is applied unchanged across three settings: alignment with human 
 | **3,168 generated videos** | [MAGI-1 24B](https://huggingface.co/sand-ai/MAGI-1) video-to-video generations: 16 candidates for each of the 198 [Physics-IQ](https://github.com/google-deepmind/physics-IQ-benchmark) scenarios, with the Physics-IQ score of every candidate (`data/magi_v2v_16_per_seed_24fps.csv`) | [Drive](https://drive.google.com/drive/folders/1l8gnrSPCD2wxke8SbDU_rnze8wy5kM8B), `./setup.sh videos` |
 | **GeoPhys picks** | the candidate each GeoPhys configuration picks in every scenario (594 videos), ready for the official Physics-IQ code | Drive, `./setup.sh selections` |
 | **Frame-trajectory features** | Gram matrices and per-token steps of every video of [LikePhys](https://github.com/yuanjianhao508/likephys), [IntPhys 2](https://github.com/facebookresearch/IntPhys2) and the 3,168 Physics-IQ candidates, for four frozen encoders at every layer | [Hugging Face](https://huggingface.co/datasets/CInterno/GeoPhys-features) |
-| **Demo on colab** | [Colab](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb) |
+| **Demo on colab** | GeoPhys on six LikePhys pairs and shows the videos, the trajectory geometry frame by frame and the scores, in five minutes.| [Colab](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb) |
 
 ## What you can do with it
 
