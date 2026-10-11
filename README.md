@@ -27,7 +27,7 @@ The same score is applied unchanged across three settings: alignment with human 
 - **Four frozen backbones.** DINOv2, DINOv3, CORnet-S, and VOneNet, none trained on video or physics.
 - **Ready for your videos.** Three Python functions and command-line tools: which of two videos violates physics, the most plausible of several candidates, and one plausibility score per video.
 
-See the [project page](https://christianinterno.github.io/GeoPhys/) and the [paper](https://arxiv.org/abs/2606.20707) for details.
+See the [project page](https://christianinterno.github.io/GeoPhys/) and the [paper](https://arxiv.org/abs/2606.20707) for details (the paper will be updated soon with the new camera ready version).
 
 ## Quick start
 
