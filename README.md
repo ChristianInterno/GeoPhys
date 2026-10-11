@@ -7,8 +7,11 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://christianinterno.github.io/GeoPhys/)
 [![arXiv](https://img.shields.io/badge/arXiv-2606.20707-b31b1b.svg)](https://arxiv.org/abs/2606.20707)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb)
+[![Features](https://img.shields.io/badge/%F0%9F%A4%97%20Features-Hugging%20Face-yellow)](https://huggingface.co/datasets/CInterno/GeoPhys-features)
 [![License](https://img.shields.io/badge/Code-MIT-blue)](LICENSE)
 [![Paper License](https://img.shields.io/badge/Paper-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+
+**Code · 3,168 generated videos with their Physics-IQ scores · frame-trajectory features of three physics benchmarks · Colab demo**
 
 <img src="static/images/fig1.png" width="760" alt="GeoPhys signals: plausible vs. violated feature-space trajectories">
 
@@ -20,14 +23,33 @@ A frozen image encoder maps each video frame to a feature; stacked across time, 
 
 The same score is applied unchanged across three settings: alignment with human EEG responses to object-permanence violations, physics-violation detection, and inference-time best-of-N verification for video generation. This repository contains the code for detection and verification, and a per-video plausibility score for rating generated videos.
 
+## What's in the release
+
+| | What | Where |
+|---|---|---|
+| **Code** | detection, best-of-N verification, a per-video plausibility score and calibration to your own data, as a Python API and command-line tools | this repository |
+| **3,168 generated videos** | [MAGI-1 24B](https://huggingface.co/sand-ai/MAGI-1) video-to-video generations: 16 candidates for each of the 198 [Physics-IQ](https://github.com/google-deepmind/physics-IQ-benchmark) scenarios, with the Physics-IQ score of every candidate (`data/magi_v2v_16_per_seed_24fps.csv`) | [Drive](https://drive.google.com/drive/folders/1l8gnrSPCD2wxke8SbDU_rnze8wy5kM8B), `./setup.sh videos` |
+| **GeoPhys picks** | the candidate each GeoPhys configuration picks in every scenario (594 videos), ready for the official Physics-IQ code | Drive, `./setup.sh selections` |
+| **Frame-trajectory features** | Gram matrices and per-token steps of every video of [LikePhys](https://github.com/yuanjianhao508/likephys), [IntPhys 2](https://github.com/facebookresearch/IntPhys2) and the 3,168 Physics-IQ candidates, for four frozen encoders at every layer | [Hugging Face](https://huggingface.co/datasets/CInterno/GeoPhys-features) |
+| **Demo on colab** | [Colab](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb) |
+
+## What you can do with it
+
+- **Rate the physical plausibility of your generated videos**, one score per video, to compare models or filter samples: `geophys.rate` / `python -m geophys.score`.
+- **Pick the most plausible of N samples** at inference time: `geophys.pick` / `python -m geophys.select`.
+- **Tell which of two videos violates physics**: `geophys.compare` / `python -m geophys.pairs`.
+- **Calibrate GeoPhys to your domain** with a few labelled pairs: `python -m geophys.calibrate`.
+- **Benchmark your own verifier without generating anything**: score the 3,168 candidates with your method, pick one per scenario, and read its Physics-IQ score off the score table (the oracle reaches 73.1, the first candidate 53.3).
+- **Study representation geometry without a GPU**: curvature, straightening and every other trajectory statistic, layer by layer, across DINOv2, DINOv3, CORnet-S and VOneNet, from the released features.
+
 ## Highlights
 
 - **Physics-violation detection.** 92.2% on LikePhys and 90.1% on IntPhys2 (GeoPhys+, macro accuracy), where V-JEPA 2, GPT-4o, Gemini, and twelve modern video diffusion models sit near chance.
-- **A cheap verifier.** As a best-of-16 verifier, GeoPhys++ lifts MAGI-1 24B from 53.3 to 64.5 on Physics-IQ and 59.9 on Physics-IQ Verified.
-- **Four frozen backbones.** DINOv2, DINOv3, CORnet-S, and VOneNet, none trained on video or physics.
+- **A cheap verifier.** As a best-of-16 verifier, GeoPhys++ lifts MAGI-1 24B from 53.3 to 64.5 on Physics-IQ and 59.9 on [Physics-IQ Verified](https://arxiv.org/abs/2606.18943)).
+- **Four frozen backbones.** [DINOv2](https://huggingface.co/facebook/dinov2-large), [DINOv3](https://huggingface.co/facebook/dinov3-vitl16-pretrain-lvd1689m), [CORnet-S](https://github.com/dicarlolab/CORnet) and [VOneNet](https://github.com/dicarlolab/vonenet), none trained on video or physics.
 - **Ready for your videos.** Three Python functions and command-line tools: which of two videos violates physics, the most plausible of several candidates, and one plausibility score per video.
 
-See the [project page](https://christianinterno.github.io/GeoPhys/) and the [paper](https://arxiv.org/abs/2606.20707) for details (the paper will be updated soon with the new camera ready version).
+See the [project page](https://christianinterno.github.io/GeoPhys/) and the [paper](https://arxiv.org/abs/2606.20707) for details (the camera-ready version with more tests and updated results of the paper will be posted soon).
 
 ## Quick start
 
@@ -41,7 +63,8 @@ geophys.pick(["c0.mp4", "c1.mp4", "c2.mp4"])   # index of the most plausible can
 
 New to GeoPhys? [`notebooks/demo.ipynb`](notebooks/demo.ipynb)
 ([open in Colab](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb))
-builds a few toy videos and shows the trajectory geometry and the scores in five minutes.
+runs GeoPhys on six LikePhys pairs and shows the videos, the trajectory geometry frame by
+frame and the scores, in five minutes.
 
 | `python -m ...` | What it does |
 |---|---|
@@ -50,7 +73,7 @@ builds a few toy videos and shows the trajectory geometry and the scores in five
 | `geophys.pairs` | which video of each pair violates physics, on a folder of your pairs (`compare`) |
 | `geophys.select` | the most plausible candidate, on a folder of your candidates (`pick`) |
 | `geophys.score` | one plausibility score per video, on folders of videos (`rate`) |
-| `geophys.calibrate` | a configuration for your own labelled pairs, for specific domain app. |
+| `geophys.calibrate` | a configuration fitted to your own labelled pairs, for a specific domain |
 
 ## Installation
 
@@ -63,10 +86,11 @@ pip install git+https://github.com/dicarlolab/CORnet git+https://github.com/dica
 
 Python 3.10, PyTorch 2.1 or newer, and a GPU for feature extraction. DINOv2 and DINOv3
 are downloaded by `transformers` on first use (DINOv3 may ask you to accept its licence on
-Hugging Face first). `geophys.rate` needs only DINOv3; `compare`, `pick` and the paper's
-configurations use all four encoders, hence CORnet-S and VOneNet.
+[Hugging Face](https://huggingface.co/facebook/dinov3-vitl16-pretrain-lvd1689m) first).
+`geophys.rate` needs only DINOv3; `compare`, `pick` and the paper's configurations use all
+four encoders, hence CORnet-S and VOneNet.
 
-## Reproduce the paper
+## Reproduce
 
 ```bash
 ./setup.sh members        # member arrays and score tables (downloads the release folder, ~1.2 GB)
@@ -76,17 +100,29 @@ python -m geophys.verify --members members/
 
 **Physical-violation detection** (accuracy over pairs, %, macro over scenario groups / micro over pairs)
 
-| | LikePhys (800 pairs) | IntPhys2 (506 pairs) |
+| | [LikePhys](https://github.com/yuanjianhao508/likephys) (800 pairs) | [IntPhys 2](https://github.com/facebookresearch/IntPhys2) (506 pairs) |
 |---|---|---|
-| GeoPhys| 92.22 | 90.07 |
+| GeoPhys+ | 92.22 | 90.07 |
 
-**Best-of-16 verification** on Physics-IQ (MAGI-1 24B, video-to-video, 198 scenarios)
+**Best-of-16 verification** on [Physics-IQ](https://github.com/google-deepmind/physics-IQ-benchmark) (MAGI-1 24B, video-to-video, 198 scenarios)
 
 | | Score table | Official, original | Official, Verified |
 |---|---|---|---|
 | First candidate | 53.25 | | |
-| GeoPhys | 65.51 | 64.58 | 59.90 |
+| GeoPhys++ | 64.58 | 59.90 | |
 | Best candidate | 73.14 | | |
+
+ The official columns come from running the
+[Physics-IQ code](https://github.com/google-deepmind/physics-IQ-benchmark) on the picked
+videos (`./setup.sh selections`, or `geophys.verify --export DIR`).
+
+Download the feature from [Hugging Face](https://huggingface.co/datasets/CInterno/GeoPhys-features) and pass `--stores`:
+
+```bash
+hf download CInterno/GeoPhys-features --repo-type dataset --include "readout/*" --local-dir geophys_features
+python -m geophys.detect --stores geophys_features/readout
+python -m geophys.verify --stores geophys_features/readout
+```
 
 ## Use GeoPhys on your own videos
 
@@ -171,7 +207,7 @@ pairs, tested on the other half, five times).
 The member arrays in `members/` can be recomputed from the videos.
 
 1. Get the benchmarks: [LikePhys](https://github.com/yuanjianhao508/likephys) and
-   [IntPhys2](https://github.com/facebookresearch/IntPhys2) (Main set) from their
+   [IntPhys 2](https://github.com/facebookresearch/IntPhys2) (Main set) from their
    authors, and the Physics-IQ candidates with `./setup.sh videos`.
 2. See which encoders, preprocessings and layers a configuration needs:
 
@@ -232,15 +268,16 @@ geophys/
   calibrate.py    a configuration for your own pairs
   api.py          rate, compare, pick
 configs/          the configurations of the paper
-notebooks/        demo.ipynb
+notebooks/        demo.ipynb and its six LikePhys example pairs
 data/             benchmark pair lists and the Physics-IQ score table
 setup.sh          downloads the released artefacts
 ```
 
-Released artefacts (one [Drive folder](https://drive.google.com/drive/folders/1l8gnrSPCD2wxke8SbDU_rnze8wy5kM8B), fetched by `setup.sh`):
+Released artefacts in one [Drive folder](https://drive.google.com/drive/folders/1l8gnrSPCD2wxke8SbDU_rnze8wy5kM8B), fetched by `setup.sh`:
 `members.tar.gz` (member arrays), `data.tar.gz` (score tables), `selections.tar` (the
 candidates each Physics-IQ configuration picks) and `v2v_candidates.tar` (the 16
-candidates of every scenario).
+candidates of every scenario). The features are on
+[Hugging Face](https://huggingface.co/datasets/CInterno/GeoPhys-features).
 
 **VOneNet note.** The official VOneNet checkpoint does not load from its published URL.
 The loader then builds VOneNet with a ResNet-50 back end and ImageNet weights, which is
@@ -249,20 +286,17 @@ what produced every VOneNet number here; it prints which path it took.
 ## Citation
 
 ```bibtex
-@misc{interno2026geophys,
-  title         = {GeoPhys: The Geometry of Physical Plausibility},
-  author        = {Intern\`{o}, Christian and Pondaven, Alexander and Issa, Habon
-                   and Pizzati, Fabio and Pinto, Francesco and Olhofer, Markus
-                   and Laptev, Ivan and Torr, Philip and Simoncelli, Eero P.
-                   and Hammer, Barbara and Klindt, David},
-  year          = {2026},
-  eprint        = {2606.20707},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2606.20707}
+@misc{internò2026geophysgeometryphysicalplausibility,
+      title={GEOPHYS: The Geometry of Physical Plausibility}, 
+      author={Christian Internò and Alexander Pondaven and Habon Issa and Fabio Pizzati and Francesco Pinto and Markus Olhofer and Ivan Laptev and Philip Torr and Eero P. Simoncelli and Barbara Hammer and David Klindt},
+      year={2026},
+      eprint={2606.20707},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.20707}, 
 }
 ```
 
 ## License
 
-The code is released under the [MIT License](LICENSE). The paper text and figures are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The code is released under the [MIT License](LICENSE). The paper text and figures are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The features follow the licences of their source videos and encoders; see the [dataset card](https://huggingface.co/datasets/CInterno/GeoPhys-features).
