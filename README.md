@@ -7,11 +7,12 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://christianinterno.github.io/GeoPhys/)
 [![arXiv](https://img.shields.io/badge/arXiv-2606.20707-b31b1b.svg)](https://arxiv.org/abs/2606.20707)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb)
+[![Videos](https://img.shields.io/badge/3%2C168%20videos-Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1l8gnrSPCD2wxke8SbDU_rnze8wy5kM8B)
 [![Features](https://img.shields.io/badge/%F0%9F%A4%97%20Features-Hugging%20Face-yellow)](https://huggingface.co/datasets/CInterno/GeoPhys-features)
 [![License](https://img.shields.io/badge/Code-MIT-blue)](LICENSE)
 [![Paper License](https://img.shields.io/badge/Paper-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
-**Code · 3,168 generated videos with their Physics-IQ scores · frame-trajectory features of three physics benchmarks · Colab demo**
+**Code · [3,168 generated videos](https://drive.google.com/drive/folders/1l8gnrSPCD2wxke8SbDU_rnze8wy5kM8B) with their Physics-IQ scores · [frame-trajectory features](https://huggingface.co/datasets/CInterno/GeoPhys-features) of three physics benchmarks · [Colab demo](https://colab.research.google.com/github/ChristianInterno/GeoPhys/blob/main/notebooks/demo.ipynb)**
 
 <img src="static/images/fig1.png" width="760" alt="GeoPhys signals: plausible vs. violated feature-space trajectories">
 
