@@ -106,11 +106,11 @@ python -m geophys.verify --members members/
 
 **Best-of-16 verification** on [Physics-IQ](https://github.com/google-deepmind/physics-IQ-benchmark) (MAGI-1 24B, video-to-video, 198 scenarios)
 
-| | Score table | Official, original | Official, Verified |
-|---|---|---|---|
-| First candidate | 53.25 | | |
-| GeoPhys++ | 64.58 | 59.90 | |
-| Best candidate | 73.14 | | |
+| |  Official, original | Official, Verified |
+|---|---|---|
+| First candidate | 53.25| – |
+| GeoPhys++ |   64.58 | 59.90 |
+| Best candidate |73.14 | – |
 
  The official columns come from running the
 [Physics-IQ code](https://github.com/google-deepmind/physics-IQ-benchmark) on the picked
