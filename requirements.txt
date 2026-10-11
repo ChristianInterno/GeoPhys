@@ -1,0 +1,14 @@
+numpy>=1.24,<2.0
+pandas>=2.0
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+opencv-python>=4.8
+Pillow>=10.0
+tqdm>=4.65
+
+# CORnet-S and VOneNet are not on PyPI; install from source:
+#   pip install git+https://github.com/dicarlolab/CORnet
+#   pip install git+https://github.com/dicarlolab/vonenet
+#
+# DINOv2 and DINOv3 weights are fetched by transformers on first use.

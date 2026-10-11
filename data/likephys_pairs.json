@@ -1,0 +1,6402 @@
+[
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_006/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_006/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_006/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_006/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_006/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_000/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_000/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_000/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_000/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_000/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_007/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_007/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_007/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_007/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_007/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_004/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_004/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_004/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_004/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_004/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_002/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_002/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_002/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_002/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_002/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_008/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_008/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_008/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_008/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_008/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_001/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_001/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_001/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_001/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_001/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_005/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_005/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_005/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_005/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_005/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_003/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_003/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_003/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_003/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_003/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_momentum_amplification",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_009/invalid_momentum_amplification_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_penetration",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_009/invalid_penetration_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_phantom_force",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_009/invalid_phantom_force_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_size_change",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_009/invalid_size_change_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_009/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "ball_collision_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_collision_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_collision_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_006",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_006/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_006",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_006/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_006",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_006/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_006",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_006/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_006",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_006/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_006/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_000",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_000/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_000",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_000/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_000",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_000/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_000",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_000/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_000",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_000/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_000/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_007",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_007/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_007",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_007/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_007",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_007/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_007",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_007/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_007",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_007/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_007/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_004",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_004/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_004",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_004/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_004",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_004/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_004",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_004/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_004",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_004/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_004/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_002",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_002/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_002",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_002/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_002",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_002/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_002",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_002/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_002",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_002/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_002/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_008",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_008/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_008",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_008/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_008",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_008/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_008",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_008/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_008",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_008/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_008/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_001",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_001/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_001",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_001/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_001",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_001/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_001",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_001/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_001",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_001/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_001/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_005",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_005/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_005",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_005/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_005",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_005/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_005",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_005/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_005",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_005/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_005/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_003",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_003/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_003",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_003/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_003",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_003/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_003",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_003/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_003",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_003/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_003/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_009",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_009/color_change_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_009",
+  "viol": "dynamic_scaling",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_009/dynamic_scaling_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_009",
+  "viol": "over_bounce",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_009/over_bounce_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_009",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_009/penetration_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_009",
+  "viol": "teleportation",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_009/teleportation_00.mp4"
+ },
+ {
+  "group": "ball_drop_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "ball_drop_videos/subgroup_009/valid_00.mp4",
+  "invalid": "ball_drop_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_006/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_006/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_006/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_006/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_006/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_006/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_006/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_006/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_006/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_006/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_006/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_000/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_000/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_000/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_000/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_000/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_000/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_000/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_000/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_000/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_000/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_000/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_007/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_007/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_007/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_007/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_007/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_007/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_007/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_007/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_007/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_007/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_007/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_004/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_004/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_004/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_004/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_004/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_004/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_004/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_004/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_004/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_004/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_004/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_002/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_002/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_002/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_002/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_002/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_002/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_002/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_002/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_002/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_002/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_002/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_008/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_008/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_008/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_008/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_008/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_008/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_008/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_008/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_008/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_008/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_008/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_001/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_001/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_001/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_001/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_001/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_001/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_001/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_001/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_001/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_001/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_001/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_005/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_005/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_005/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_005/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_005/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_005/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_005/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_005/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_005/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_005/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_005/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_003/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_003/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_003/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_003/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_003/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_003/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_003/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_003/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_003/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_003/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_003/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_hovering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_009/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_009/invalid_hovering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_irregular_motion",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_009/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_009/invalid_irregular_motion_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_jittering",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_009/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_009/invalid_jittering_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_size_changing",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_009/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_009/invalid_size_changing_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_teleportation",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_009/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_009/invalid_teleportation_00.mp4"
+ },
+ {
+  "group": "block_slide_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "block_slide_videos/subgroup_009/valid_00.mp4",
+  "invalid": "block_slide_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_006",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_006/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_006/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_006",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_006/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_006/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_006",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_006/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_006/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_006",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_006/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_006/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_006",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_006/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_006/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_006/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_000",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_000/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_000/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_000",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_000/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_000/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_000",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_000/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_000/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_000",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_000/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_000/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_000",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_000/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_000/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_000/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_007",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_007/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_007/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_007",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_007/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_007/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_007",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_007/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_007/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_007",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_007/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_007/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_007",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_007/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_007/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_007/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_004",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_004/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_004/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_004",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_004/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_004/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_004",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_004/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_004/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_004",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_004/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_004/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_004",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_004/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_004/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_004/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_002",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_002/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_002/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_002",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_002/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_002/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_002",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_002/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_002/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_002",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_002/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_002/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_002",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_002/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_002/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_002/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_008",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_008/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_008/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_008",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_008/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_008/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_008",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_008/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_008/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_008",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_008/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_008/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_008",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_008/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_008/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_008/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_001",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_001/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_001/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_001",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_001/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_001/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_001",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_001/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_001/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_001",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_001/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_001/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_001",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_001/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_001/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_001/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_005",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_005/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_005/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_005",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_005/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_005/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_005",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_005/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_005/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_005",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_005/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_005/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_005",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_005/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_005/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_005/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_003",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_003/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_003/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_003",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_003/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_003/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_003",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_003/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_003/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_003",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_003/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_003/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_003",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_003/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_003/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_003/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_009",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_009/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_009/color_change_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_009",
+  "viol": "ground_penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_009/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_009/ground_penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_009",
+  "viol": "impossible_folding",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_009/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_009/impossible_folding_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_009",
+  "viol": "penetration",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_009/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_009/penetration_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_009",
+  "viol": "rubber_cloth",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_009/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_009/rubber_cloth_00.mp4"
+ },
+ {
+  "group": "cloth_drape_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "cloth_drape_videos/subgroup_009/valid_00.mp4",
+  "invalid": "cloth_drape_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_014",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_014/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_014/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_006/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_015",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_015/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_015/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_013",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_013/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_013/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_011",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_011/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_011/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_007/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_010",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_010/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_010/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_008/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_012",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_012/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_012/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/color_change_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "oscillating_viscosity",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/oscillating_viscosity_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/self_attracting_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "faucet_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "faucet_videos/subgroup_009/valid_00.mp4",
+  "invalid": "faucet_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_006/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_000/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_007/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_004/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_002/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_008/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_001/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_005/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_003/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/color_change_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "elastic_explosion",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/elastic_explosion_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "flag_shatter",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/flag_shatter_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "flag_teleport",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/flag_teleport_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "impossible_twist",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/impossible_twist_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "sudden_freeze",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/sudden_freeze_00.mp4"
+ },
+ {
+  "group": "flag_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "flag_videos/subgroup_009/valid_00.mp4",
+  "invalid": "flag_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "antigravity_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/antigravity_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "discontinuous_fluid",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/discontinuous_fluid_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "matter_creation",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/matter_creation_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "non_conservation_momentum",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/non_conservation_momentum_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "phase_transition",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/phase_transition_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "self_attracting",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/self_attracting_00.mp4"
+ },
+ {
+  "group": "fluid_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "fluid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "fluid_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_006",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_006/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_000",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_000/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_007",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_007/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_004",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_004/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_002",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_002/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_008",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_008/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_001",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_001/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_005",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_005/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_003",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_003/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "break_conservation_energy",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/break_conservation_energy_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "break_continuity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/break_continuity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "disappearing_bob",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/disappearing_bob_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "path_deviation",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/path_deviation_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "reverse_gravity",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/reverse_gravity_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pendulum_videos",
+  "sub": "subgroup_009",
+  "viol": "varying_frequency",
+  "idx": "00",
+  "valid": "pendulum_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pendulum_videos/subgroup_009/varying_frequency_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_006/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_006/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_006/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_006/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_006",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_006/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_006/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_000/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_000/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_000/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_000/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_000",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_000/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_000/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_007/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_007/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_007/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_007/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_007",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_007/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_007/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_004/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_004/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_004/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_004/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_004",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_004/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_004/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_002/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_002/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_002/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_002/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_002",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_002/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_002/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_008/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_008/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_008/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_008/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_008",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_008/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_008/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_001/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_001/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_001/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_001/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_001",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_001/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_001/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_005/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_005/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_005/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_005/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_005",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_005/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_005/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_003/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_003/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_003/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_003/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_003",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_003/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_003/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_anti_gravity",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_009/invalid_anti_gravity_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_momentum_multiplication",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_009/invalid_momentum_multiplication_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_phase_shifting",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_009/invalid_phase_shifting_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_sphere_fusion",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_009/invalid_sphere_fusion_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_009",
+  "viol": "invalid_teleporting_spheres",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_009/invalid_teleporting_spheres_00.mp4"
+ },
+ {
+  "group": "pyramid_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "pyramid_videos/subgroup_009/valid_00.mp4",
+  "invalid": "pyramid_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_006/valid_00.mp4",
+  "invalid": "river_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_000/valid_00.mp4",
+  "invalid": "river_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_007/valid_00.mp4",
+  "invalid": "river_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_004/valid_00.mp4",
+  "invalid": "river_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_002/valid_00.mp4",
+  "invalid": "river_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_008/valid_00.mp4",
+  "invalid": "river_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_001/valid_00.mp4",
+  "invalid": "river_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_005/valid_00.mp4",
+  "invalid": "river_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_003/valid_00.mp4",
+  "invalid": "river_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "color_change",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/color_change_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "fracturing_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/fracturing_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "invisible_wall",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/invisible_wall_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "negative_viscosity",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/negative_viscosity_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "non_conservation_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/non_conservation_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "phase_shifting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/phase_shifting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "teleporting_fluid",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/teleporting_fluid_00.mp4"
+ },
+ {
+  "group": "river_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "river_videos/subgroup_009/valid_00.mp4",
+  "invalid": "river_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_006",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_006/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_006",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_006/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_006",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_006/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_006",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_006/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_006",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_006/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_000",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_000/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_000",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_000/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_000",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_000/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_000",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_000/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_000",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_000/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_007",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_007/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_007",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_007/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_007",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_007/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_007",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_007/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_007",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_007/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_004",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_004/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_004",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_004/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_004",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_004/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_004",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_004/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_004",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_004/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_002",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_002/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_002",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_002/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_002",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_002/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_002",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_002/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_002",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_002/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_008",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_008/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_008",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_008/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_008",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_008/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_008",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_008/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_008",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_008/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_001",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_001/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_001",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_001/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_001",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_001/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_001",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_001/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_001",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_001/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_005",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_005/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_005",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_005/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_005",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_005/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_005",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_005/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_005",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_005/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_003",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_003/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_003",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_003/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_003",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_003/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_003",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_003/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_003",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_003/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_009",
+  "viol": "impossible_reflection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_009/impossible_reflection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_009",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_009/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_009",
+  "viol": "shadow_disconnection",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_009/shadow_disconnection_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_009",
+  "viol": "sudden_disappearance",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_009/sudden_disappearance_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_camera_videos",
+  "sub": "subgroup_009",
+  "viol": "varying_size",
+  "idx": "00",
+  "valid": "shadow_camera_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_camera_videos/subgroup_009/varying_size_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_006",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_006/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_006",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_006/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_006",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_006/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_006",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_006/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_006",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_006/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_006",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_006/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_006/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_000",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_000/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_000",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_000/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_000",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_000/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_000",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_000/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_000",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_000/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_000",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_000/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_000/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_007",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_007/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_007",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_007/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_007",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_007/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_007",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_007/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_007",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_007/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_007",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_007/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_007/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_004",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_004/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_004",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_004/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_004",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_004/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_004",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_004/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_004",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_004/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_004",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_004/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_004/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_002",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_002/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_002",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_002/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_002",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_002/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_002",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_002/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_002",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_002/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_002",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_002/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_002/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_008",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_008/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_008",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_008/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_008",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_008/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_008",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_008/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_008",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_008/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_008",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_008/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_008/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_001",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_001/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_001",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_001/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_001",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_001/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_001",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_001/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_001",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_001/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_001",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_001/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_001/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_005",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_005/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_005",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_005/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_005",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_005/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_005",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_005/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_005",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_005/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_005",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_005/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_005/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_003",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_003/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_003",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_003/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_003",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_003/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_003",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_003/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_003",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_003/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_003",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_003/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_003/wrong_shadow_shape_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_009",
+  "viol": "inverted_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_009/inverted_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_009",
+  "viol": "no_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_009/no_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_009",
+  "viol": "no_shadow",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_009/no_shadow_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_009",
+  "viol": "temporal_disorder",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_009/temporal_disorder_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_009",
+  "viol": "varying_object",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_009/varying_object_00.mp4"
+ },
+ {
+  "group": "shadow_videos",
+  "sub": "subgroup_009",
+  "viol": "wrong_shadow_shape",
+  "idx": "00",
+  "valid": "shadow_videos/subgroup_009/valid_00.mp4",
+  "invalid": "shadow_videos/subgroup_009/wrong_shadow_shape_00.mp4"
+ }
+]

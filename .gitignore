@@ -1,0 +1,9 @@
+members/
+videos/
+selections/
+__pycache__/
+*.pyc
+geophys.egg-info/
+toy/
+*.signals.jsonl
+_drive/

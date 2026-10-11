@@ -1,0 +1,227 @@
+{
+ "method": "GeoPhys",
+ "task": "physicsiq_best_of_16",
+ "fusion": "rank",
+ "members": [
+  {
+   "backbone": "cornet",
+   "layer": "IT",
+   "prep": "direct",
+   "signal": "ar3",
+   "agg": "mean",
+   "norm": "l2",
+   "tvar": "-",
+   "post": "-",
+   "window": "last"
+  },
+  {
+   "backbone": "vonenet",
+   "layer": "vone_block",
+   "prep": "hf",
+   "signal": "speedstd",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "spd",
+   "post": "cv",
+   "window": "mid"
+  },
+  {
+   "backbone": "dinov2",
+   "layer": "12",
+   "prep": "direct",
+   "signal": "stillness",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "raw",
+   "post": "-",
+   "window": "full"
+  },
+  {
+   "backbone": "cornet",
+   "layer": "IT",
+   "prep": "direct",
+   "signal": "speedstd",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "raw",
+   "post": "cv",
+   "window": "mid"
+  },
+  {
+   "backbone": "vonenet",
+   "layer": "vone_block",
+   "prep": "hf",
+   "signal": "accel",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "raw",
+   "post": "std",
+   "window": "first"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "direct",
+   "signal": "ar3",
+   "agg": "cls",
+   "norm": "l2",
+   "tvar": "-",
+   "post": "-",
+   "window": "mid"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "direct",
+   "signal": "drift_motion",
+   "agg": "cls",
+   "norm": "l2",
+   "tvar": "raw",
+   "post": "-",
+   "window": "last"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "direct",
+   "signal": "ar3",
+   "agg": "cls",
+   "norm": "l2",
+   "tvar": "-",
+   "post": "-",
+   "window": "last"
+  },
+  {
+   "backbone": "vonenet",
+   "layer": "vone_block",
+   "prep": "direct",
+   "signal": "stillness",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "raw",
+   "post": "-",
+   "window": "full"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "direct",
+   "signal": "accel",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "spd",
+   "post": "wmean",
+   "window": "last"
+  },
+  {
+   "backbone": "vonenet",
+   "layer": "vone_block",
+   "prep": "hf",
+   "signal": "accel",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "l2",
+   "post": "top10",
+   "window": "first"
+  },
+  {
+   "backbone": "cornet",
+   "layer": "IT",
+   "prep": "hf",
+   "signal": "angcons",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "spd",
+   "post": "top10",
+   "window": "last"
+  },
+  {
+   "backbone": "cornet",
+   "layer": "IT",
+   "prep": "direct",
+   "signal": "drift_motion",
+   "agg": "mean",
+   "norm": "l2",
+   "tvar": "l2",
+   "post": "-",
+   "window": "last"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "direct",
+   "signal": "curv",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "raw",
+   "post": "cv",
+   "window": "full"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "hf",
+   "signal": "accel",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "l2",
+   "post": "min",
+   "window": "mid"
+  },
+  {
+   "backbone": "vonenet",
+   "layer": "vone_block",
+   "prep": "hf",
+   "signal": "accel",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "spd",
+   "post": "bottom100",
+   "window": "full"
+  },
+  {
+   "backbone": "vonenet",
+   "layer": "vone_block",
+   "prep": "direct",
+   "signal": "speedcv",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "l2",
+   "post": "std",
+   "window": "mid"
+  },
+  {
+   "backbone": "dinov3",
+   "layer": "18",
+   "prep": "hf",
+   "signal": "curv",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "raw",
+   "post": "bottom10",
+   "window": "chg"
+  },
+  {
+   "backbone": "dinov2",
+   "layer": "12",
+   "prep": "direct",
+   "signal": "speedcv",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "l2",
+   "post": "bottom100",
+   "window": "mid"
+  },
+  {
+   "backbone": "cornet",
+   "layer": "IT",
+   "prep": "direct",
+   "signal": "stillness",
+   "agg": "tok",
+   "norm": "-",
+   "tvar": "l2",
+   "post": "-",
+   "window": "last"
+  }
+ ]
+}
