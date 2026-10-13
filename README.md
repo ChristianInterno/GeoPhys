@@ -308,6 +308,17 @@ what produced every VOneNet number here; it prints which path it took.
 }
 ```
 
+## Star History
+
+<a href="https://www.star-history.com/#ChristianInterno/GeoPhys&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ChristianInterno/GeoPhys&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ChristianInterno/GeoPhys&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ChristianInterno/GeoPhys&type=Date" />
+ </picture>
+</a>
+
+
 ## License
 
 The code is released under the [MIT License](LICENSE). The paper text and figures are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The videos (CC BY 4.0) and the features follow the licences of their sources; see the [dataset card](https://huggingface.co/datasets/CInterno/GeoPhys-features).
